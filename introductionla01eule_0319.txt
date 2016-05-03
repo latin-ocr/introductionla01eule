@@ -1,0 +1,55 @@
+coNT1NUEs„ 293
+
+chacune pourra &tre convertie en une fraffion continue,
+dont la valeus par consequent est e'gale ἐι la somme de cette
+serie. Les exemples , que nous avons donne's ci-deffus,
+suffisent pour indiquer cet usage. Mais il feroit& desiset
+qu'on de'couvrit une methode , au moyen cle laquelle, etant
+proposee une fraffion continue quelconque, on put en
+trouver immediatement la valeus. En effeti, quoiqu'une
+frac'lion continue puiffe &tre transformet? en une serie , qu'on
+peut chercher ὲ sommer par les me'thodes connues ‚ cependant
+ces sortes de series sont le plus souvent fi compliqmffies,
+
+u‘il paroit ὲ peine poffible d’en trouver la somme quoiqu'elle
+Poit assez simple.
+
+375. Pour faire voit plus clairement qu’il y a des fractions
+continues, dont on peut d’ailleurs obtenir facilement la valeut
+sans qu’on puisse rien concluse deS series infinies qui en
+derivent3 prenons pour exemple cette fraffion continue
+
+x=—¹— 1
+24— 1
+24— 1
+2 -1-—2— ÷&c.
+
+dont tous les denominateurs sont egaux entr’eux. En effet ,
+fi, en suivant le procede expos& ci-dessus, nous formons
+
+lesfra&ions
+o, 2,2‚ 2, 2, 2, 2
+
+ 
+
+nous en deduirons la serie
+1 1 ἶ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x=0—-}-¹———3-÷ ——r-- ——-&c‚
+2 > 2.5 5.12 12.29 29.70
+ou, en ajoutant deux termes ‚ celle-ci:
+2 2 2 Q
+x = 15 5.29 29.169 '4- “C
+ou
+x Σ 1 - 2 — 2 - &c
+

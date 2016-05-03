@@ -1,0 +1,58 @@
+336 Norts
+
+timite de cette conclufion ‚ nous allons chercher direQement
+une for-mule ge'ne'rale , apres avoir etabli auparavant deux pro-
+pofitions qui nous seront ne'cess'aires.
+
+Ι.
+
+Siy est une folnvstilon dy’unynombre quelconque de fi³&eurs
+l
+
+variables ‚ &y ‚y , y ‚ y , y ‚ &c ‚ ce que devient cette fonc-
+tion, lorsqu'on met succeffivement ,ἦ la place de la variable
+
+de chaque saffeur, cette variable, augmentee de sa diffe-
+rence ‚ prise une , deux, trois, quatre , cinq, δίε. fois, ὃς
+
+que je suppose ici constante. La difference premiere de la ·
+
+fonstion sera evidemmenty'-y ,· la diffe'rence seconde sera
+§yffi-ss) - (y —y) =y‘'— zy‘—}-y ‚· la difference troifieme
+era [ί] -y'‘ — (yffi—W] -Ι- [(y‘'-7'),·- (y'—y)]
+:y''‘- 3y‘'—÷- 3y'- y. La d1fference quatrleme sera de
+meme y'¹⁷— 4y‘'‘-†- 63¹⁹— 4y'-{-y ‚⁶ & en ge'neral , Ia diffe-
+
+rencen‘serass(y-ny'-1-72,'²‘: ¹y''·-·tt.⁷²-¹·⁷¹{²·y“'÷&c)
+
+ 
+
+ 
+
+ 
+
+2
+suivant que η sera un nombre pair ou impair.
+
+II.
+
+Si on a un nombre m de faeteurs variables‚p, q,r‚s,t‚ &c.
+dont les diffe‘rences constantes soient a, b, c, d, e, &c;
+je dis que la difference η’, du produit de ce nombre m de
+faeoeurs , sera ze'ro ‚ fi η est > m. Pour abreget & faciliter
+le calcul, prenons pour m un nombre determine, 3, par
+exemple‚ δε soient les faffeurs p , q, r, dont les diffe'rences
+constantes sont a, b, δε ε,- la difference n‘ sera , par la pre-
+miere proposition ,
+
+pqr ’
+—n.(pqr-}- a.qr-4- b.pr4- c.pq4- αὕη-Ι- ac.q-{- bap-{- abc)
+71-1
+
+4⁷² . -2—-(pqr÷2a.qr÷2b ,μνῆ-ιε,μς-μναῖ),ν-ι-ιάικᾳ-ἦ-’Ζιόεῳ-Ι-αἳαόσ)
+
+...n . ξ] ,ΙΙ-ξ. (pq r÷ 3 αρν-ιη b ,μγ-μς c .pq÷3²ab .r÷3²ac.q-4-3²bc.p4-3³ahe)
+411 ‘'ff-{23:42⁸ (pqr-i-4a.qr-†-4b .pr-{-4⁴c.pq-†-4²ab .r÷4²ac,q÷4²bc.p÷4³abc)
+
+- ἃς. Or,
+

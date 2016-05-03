@@ -1,0 +1,48 @@
+272 DE L’USAGE nxzs Sfims wicmannus
+E X E M P L E II.
+
+Soic propose'e l’e'quation x³ ·— 4 xx -1- 8 x - 8 =0 ‚ dom
+une racz'ne re'elle est 2 , G* leproduic des deux imagitzaires = 4 ‚
+G* esi par conft'quent e'gal au quarre' de la racine re'elle 2.
+
+Cherchons donc cette racine par une serie recurrente, &
+pour plus de facilite', faisons x = zy , afin d’avoir y³ —
+2yy -ι- 2y — 1 = 03 ce qui donnera la se‘rie recurrente
+
+1, 2,2, 1 ,0,0,1,2,2‚ 1‚0,0‚1,2,2‚ 1,&C.
+Comme les memes termes reviennent continuellement, on
+n'en peut rien concluse ‚ finon on que 13 plus grande racine
+
+n’est pas re'elle, ou qn’ily a des 1mag1na1res dont le produit
+&gale ou surpasse 16 quarte de 13 racine 1-66116.
+
+EXEMPLE III.
+
+Σοί( encore propofi'e l’e'quatiotz κ’ —- 3 x² ’1- 4x —- 2 = 0 ‚
+dom la racine re‘elle est 1 ‚ &le produit des imaginaires = 2.
+
+Formons donc avec l’elchelle de relation 3 , —- 4, -1- 2 ,
+la serie
+
+1, 32525212—7’— 15,—-15‚1,33‚65,65‚1‚&c.
+Comme les termes y sont tant& pofitifs ‚ ὃ( π3ηῑόε negatifs ‚
+on n'en pourra nullement deduire 13 racine re'elle 1. Mais ces
+retours successifs de fignes apprennent toujours ,' que la racine
+que devoit donner 13 [ε’ῐί6 , est imaginaire ς car ici les
+racines imaginaires sont plus grandes en puissance que la
+racine (66116 1.
+
+350. Supposons donc dans la fraefion generale 16 produitpp
+de deux racines imaginaires plus grand que le quarte d'au-
+cunc racine reelle , de maniere que les autres puissances
+q n, tq, δίε, disparoiffenc 3 l'e‘gard de p '² , fi n est un nombre
+infimi. Dans ce cas , P deviendra =
+
+Afi11(n-}-1)v-{-B.fin.ncp n A.fin.(n÷2)cp÷B.fin.(n-1-1)cp
+
+. sut-0 Ρ &9²² fimo
+
+pn-ff-n'
+
+&-
+

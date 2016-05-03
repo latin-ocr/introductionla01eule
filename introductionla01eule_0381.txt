@@ -1,0 +1,74 @@
+ETECLAxxxcszEMENs. 355
+
+puis m’empecher de m’arreter un moment sur une ques-
+tion traitee ailleurs par Euler ‚ ἃ faite pour piquer la
+curiofite'. Je veux parler de la maniere de trouver la somme
+des diviseurs des nombres3 οη sera &ronne de voir com-
+bien la solution de ce probleme est e'troitement liee ὲ ce
+qui precede. Reprenons en consequence l'equation
+
+P-=(1-x) (1-x2) (1-x³)(1-x⁴)(1-x³) (bxv (1-x9(1-x2)›<&c- =
+1 —x —x2-12- x5-i-x7— x¹²—-x¹⁵—-}-x²²÷x²⁶-— &c.
+Soit P' ce que devient chacune de ces expreffions en augmen-
+tant x d'une quantit& qoelconquey, la premiere §alem- de
+
+P deviendra
+
+Pr: (1 -[x-4-y]) (1-[x÷y]²) (1 -[x÷y]³) (1-[x-1-y]⁴)(1-[x.-1-.y]5) χ &q
+δὲ la seconde valeur de P deviendra
+P'=1-(x÷y)-(x÷y)²÷(x4y)⁵÷(x÷y)⁷- C<÷y)¹²-(x÷y)¹⁵÷&c„
+
+⁴ Nous aurons d’abord‚ en premant les legarithmes des pre-
+mieres valeurs de P ἃ. de P', les deux equarions suivante3;
+
+lel(1—x)-÷-l(1—-x²)-÷-l(1- x³)4-l4f1—xss÷l(1—x⁵) ..1- δίς.
+lP1=l(1-x·y)÷l(1-x²-2xy)÷-l(1-x³-3x²y)-⁴-l(1-x4-4x³7)÷&c-
+Je neggljge les puiffances dey superieures ὲ la premiere ‚ parce
+
+que dans la supposstion que nous ferons de y Ξ 0 ‚ elles don-
+neroient des quantites nulles. En retranchant la seconde
+
+equation de la premiere, j’aurai
+[ἔτ-κν —J->÷2<1-2Jx>÷2<w3235>÷l<1÷⁴232>÷a<0³
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1-x 1-x2
+OU
+P'— y 2yx 3yx² 4yx³ 5yx⁴ — Ἴ
+ἱῖ-’ρἶἶή-Ῐ--λῖ-ι-κῖ”ι-κΐ-ι-κῑ ‘c‘
+
+Multipliant chaque membre par ξ ‚ supposant y = 0, ὅς ἀέ-
+
+fignant par t le resultat, nous aurons pour premiere valeur
+
+de—-t,
+x
+
+ 
+
+ 
+
+.- tj=
+
+ 
+
+ 
+
+2 x² 3x³ 4 x⁴ 5 x<
+-ε- {2752 -4- -}- -ι- -1- &c.
+
+1-x3 1-x‘1 ι--ειες
+
+2Y ij
+
+l-x
+

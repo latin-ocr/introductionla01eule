@@ -1,0 +1,45 @@
+nl-:s Fowcnons. 21
+
+nombre des faeteurs {imples reels sera au moins = 2 m -ι- 2 ,
+& par consequent pair3 & celui des fasteurs imaginaires sera
+e'galement pair. Donc les faeteurs fimples imaginaites d‘une
+fon&ion entiere quelconque sont toujours en nombre pair3
+
+comme nous l'avons deja dit.
+
+37. Si dans la fhnc‘lion Z l’expofiznt de la plus haute puis2
+fizrzce de z est urz nombre pair, ἃ que le terme absolu ou constant
+fhit affkc‘le' du figas —·-, la fwchc'on Z aura αιι moins deux fac· ’
+leurs fimples re'els. ·
+
+La fonc‘kion Z, dont il s’agit ici, aura donc cette forme:
+
+{²”ss2{²'¹—¹ss53²'¹'‘²ss ....... -Σὲζ-Α, Si l’on
+fait z z σα, Ζ deviendra, comme ci-dessus‚= 00 ‚ ὃ( {i l'on
+fait ζ = O, Z deviendra τε —- A. Donc Z — ω aura le fac-
+
+teur re'el 3 —- 00 ‚ δι Ζ -ι-Ἀ le faetent reel ζ - 0, d‘o‘u il
+suit que , 0 etant renferme¹ entre les limites —- 00 & —4-A,
+Ζ-ι- 0 a un factem ssnipie re'el z — c, c e'tant compris entre
+les limites 0 & co. En faisant ensuite z = —- 00 , Z devient
+encore Ξ 003 ainsi Z — 00 aura pour faetent ζ -ὶ- 00 ‚ &
+comme Z -ὲ- Α a pour faetent Z -ὶ- 0, il s'ensuit que Z -4- 0
+a un fa&eur (imple ree] ζ -1- α’, d etant compris entre 0
+γ & 003 ce qui constate la ve'rite' de la propofition. On voit
+par-131 que fi Z est une fonfflon, telle qu’elle est suppose'e
+ici, l’e'quation Z = 0 a au moins deux racines reelles, l’une
+pofitive , l’autre negative. Par exemple, l’equation ᾖ -1- a ζ’
+04- ’ἵζ’ -Ι- ‘7 z —- aa = 0 a deux racines reelles, l’une positive,
+l’autre negative.
+
+38. Si dans utzeforzc'i‘ion frac‘lionnaire la variable z α aurant
+ou plus de dimenfions dans le nume'rateur que dans le de'nomz‘-
+namur, cette fbnc'i‘ion pourra ἒινε dbcompose'e: etz deux parties,
+l’une qui fi‘ra un entier, ξ) ίάιαπε une fi‘czc‘t'ion , dans le ηιυηέ-
+,ναιειιν de laquelle la variable z aura moins de dimctzfions que
+dans le denominamur.
+
+En effet, l'exposant de la plus haute puissance de ζ erant
+moi'ndre dans le nume'rateur que dans le denominamur,
+divisoris ὲι la maniere ordinaire le numerateur par le de'no-
+

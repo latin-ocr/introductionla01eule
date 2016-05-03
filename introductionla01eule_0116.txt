@@ -1,0 +1,45 @@
+92 DEs QUAerrsszs TRANSCENDANTES
+
+vestie en une s6rie infinie, ὲ l'aide des logarithmes hyper-
+boliques3 mais auffi ‚i deifignant un nombre infiniment grand,
+les quantite‘s exponentielles ὃς les logarithmes peuventktre
+
+l
+reprdsentds par des puiffances. En effet, εἶ = (ι -ὶ- 35) ‚ δε
+
+l
+par cons6quent ay == ( 1 -ι-ἕίἶὶὲῑ) 3 d’ailleurs, on a pour les
+1
+
+logarithmes hyperboliques l( 1 -Ι- x) = i [ ( 1 -4- x)7-— 1 ]ο
+
+Au surpffls, l‘usage des logarithmes est delmontr& plus en
+de'tail dans 16 calcul inte'gral.
+
+ 
+
+CHAPITRE VIII.-
+Des Quantite‘s transcendant& qui naiffinp du Cercle.
+
+126. Apr‘es la confideiration des logarithmes & des quan-
+tite's exponentielles , vient celle des arcs de cercle, & de
+leurs finus ὃς cosmus , tant parce qu’ils forment une autre
+espece de quantite's transcendantes‚ que parce qu'ils de'ri-
+vent des quantite‘s logarithmiques msmxes & des quantitesss
+exponentielles, lorsqu‘elles renfcrment des imaginaires, ce
+qu’on ven-ra plus clairement ci-apre‘m.
+
+bupposons donc 16 rayon du cercle ou 16 finus total = 1 ,
+il paroit affez elain· que la circonfeffx‘em·e de ce cercle ne peut
+&tre exprime'e exastement en nombres rationnels ἥ, mais on
+a trouve' par approximation la demi-circonse'rence de ce
+σει-616 = .....................
+
+3,141592653589793238462643383279502
+884197169399375105820974944592307816
+4062862089986280348253421170679821480
+865132723066470938446 -{-. Pour abreget j'e'-
+
+⁸ Ceae proposuion :1 ἑτέ demon-‚ree par Lambem Mimoires dc Berlin mais on en trouveraune demonstra·
+:ion plus simple dms 16, Elc'mcrn de Giomc'rric du C. Legendre, qui ont patu depuis peu.
+

@@ -1,0 +1,49 @@
+52 Du DssVELOPPEMENT mss FoNcnons
+
+cette serie renfermera toutes les progreffions alge'briques
+du troifieme ordre, dont 165 differences troifiem‘es sont
+constantes. Donc tontes les progressions de cet ordre que
+je represente parA -f- Β -ὶ- C-Jl- D -1- E—l- F-}- &a seront
+des series recurrentes de'pendanoes du denominateur 1 — 4
+»1- 6ζ* ψ- 4z³÷ {43 d'oh 11 s'ensuit que E :r 4D -- ὄὲ
+-1— 413—- Ag F: 4E— 6D -ὶ- 4C—B; δίε. Ρῐορῑὶἐῑέ
+qui s'applique en meme-temps ὲ toutes les progreffions
+d'ordres infe'rieurs.
+
+67. On fera voir de la meme mamere, que toutes les
+progreffions algebriques, de quelque ordre qu’elles soient,
+qui n‘enent ὲ des differ-ences constantes, sont des series
+recurrentes, dont la 1οἰ est de'terminee par 16 de'veloppe-
+
+ment du denominamur (1m—3)'¹‚ 16 nombre n etoit plus
+grand que celui qui indique l'ordre de la progreffion. Ainfi
+
+la suite am-z- (a-ae-b)''²÷(a-÷-2b)⁷'²-÷- (a-÷- 3b)'⁷²-÷- &c.
+representant une progreffion de l’ordre m3 on aura par la.
+nature des se'ries recurrentes . . . . . . . .
+Ozam—-n (a-l-bsnnl- 'An-¹) (cz-4- 2 b)m—⁷²———'('²-¹ (Μή) χ
+, 1. 2 · 1. 2. 3
+
+71 m—
+
+(a43b)''²-{- ......... -μ-[α-ι-(ηψ-ψὸ] —1—(a—1-nb)''²;
+
+— 1
+
+ 
+
+expreffion dans laquelle on prend les fignes superieurs fi tt
+est impair , ὅ( 165 fignes infe'rieurs fi n est pair. Cette e'quation
+est 'donc toujours vraie fi η est un nombre entier plus grand
+que m. On peut juger par-132 de l'etendue de la the'orie des
+se'ries recurrentes. ·
+
+68. Si le denominateur n’est pas une puissance d’un binome,
+mais d'un polynome quelconque , 16 ἀέν61ορρ61116η( de la se'rie
+peut &tre autrement confidere. En effer ,A soit la frastion
+
+ῖ--ῖΙΤ-ῖῖῖΜ-,ῖῖ5 la serie infinie, qui en
+1-0‘1— f—vz — ζ- ἐ.
+
+re'sultera, sera .
+

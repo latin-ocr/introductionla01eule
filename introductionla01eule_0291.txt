@@ -1,0 +1,45 @@
+DAns LA nemmem mas RAcmts mis EQUAT. 265
+
+nous ferons x — k ==y‚ ou x=y-{-Ic‚ & par ce moyen
+nous aurons une equation‚ dont la plus petite racine sera =
+x — k3 & fi nous la cherchons par une setie recurrente , ce
+qui sera tres-facile ‚ puisque cette racine est beaucoup plus
+petite 'que les autres ‚ en l'ajoutant ὰ lr , nous aurons une
+des vraies racines x de l'equation propose‘e. L'usage de ce
+
+rocede est fi general, qu’il auroit encore lieu , quand meme
+llequation contiendroit des racines imaginaires.
+
+342. On ne peut sur-tout se passer de cet artifice pour
+trouver une racine, lorsque l²equation en renferme une autre
+egale a celle qu‘on cherche , mais affeete'e d'un figne co'ntrai re.
+Par exemple, fi une equation dont la plus grande racine
+soit fi, avoir auffi —— p pour racine, on auroit beau continuer-
+la se‘rie ‚ meme jusqu’a l'infini, on n'en pourroit jamais de-
+duire cette racine p. Proposons-nous , pour eclaircir ce que
+nous avanqons ‚ l‘equation x³ —- x² — 5 x —4- 5 = o ‚ dont
+la plus grande racine est ts} ‚ ὃς qui a en meme temps -ιίξ
+pour racine3 fi nous suivons la methode que nous avons
+prescrite‚ pour trouver la plus grande racine ‚ ἃ que nous
+form-ions une serie recurrente, dont l’e'chelle de relation
+soit 1 , —4- 5, ·- 5 ‚ nous aurons la suite
+
+1,2‚3‚8,13‚38,63‚188‚313‚938,1563,&C. ,
+dans laquelle on n'arrive a aucun rapport constant. Mais il
+en est autrement du rapport des termes pris alternativement,
+& sl l'un de ces termes est divise par le precedent ‚ le
+
+quotient exprimera le quarre de la plus grande racine. En
+effer, on a a-peu—pres 5= 33—51633— Ξ {³3} Ξ 3ΤῙ33. Ainfi ,
+toutes les fois qu'cn prenant seulement les termes alterna-
+tifs‚ leur rapport tend a l'egalite ‚ on obtient la valeur
+approche'e du quarre de la racine ehenhee. Au reste, la
+racine x = Is} se trouve en faisant x=y -}- 23 ce qui
+donne l’equation 1 —- 3y — 5 y -—y3 :zo , dont la plus
+petite racine se conclura de la erie
+1‚1‚ 1‚9‚33‚145‚609‚2585‚10945‚2ke
+
+EULER, Introduchon ὰ lulla-al. infin. Tome I. 2 L
+
+(ss)
+

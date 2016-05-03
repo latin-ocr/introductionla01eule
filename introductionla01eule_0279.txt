@@ -1,0 +1,42 @@
+nfis NoMBREs. ²53
+& en divisant cette expreffion par la premiere
+
+r-x2-x⁴-1›·x¹'³-⁴-x¹⁴—x²⁴— x¹⁰ -4- &c.
+ρ :²² 1—x-x²÷x⁵-÷-x⁷-x¹2—-x²⁵÷x²²÷x²‘-&c·
+
+Donc la se'rie Q sera auffi recurrente, & sera egale ὲ la
+
+serie Ἰζ-εν en multipliant celle-ci pat 1 - x² — x* —}- x¹⁰ -4-
+
+x¹⁴ —- x'* &c. Ainfi , puisque (art. 324)
+
+3¹3: 1 -f-oc ÷2x²÷3x³÷ 5x‘*-i-7x5 -1- ιῐκό-Ι- 15x⁷-{-
+22:0⁸ -l- 3ox⁹ -4- &a
+Si on multiplie ce re'sultat par r
+ι —- x²——x4-}-x¹³—l-x¹⁴—-· δίε.
+on trouvera pour produit
+ι ÷x÷ 2x² -q- 3x³ -÷- 53⁴ -ι- 7x⁵ ÷11x⁶ ῆ- ιςκ7 -ι- 22x⁸ -4- 30³⁹ -ι- διε.
+- x‘ — ,κ’ —2x⁴ —3x5 — 5³⁶⁶ — 7³⁶⁷ — nx* — 15³⁹ — &c.
+— x⁴-— κς - 2x‘ — 3³⁶⁷ — 5x' — 7x9—&c.
+ou
+ι -ξ-αε 4 x²÷ 2x¹÷2a⁴ -ὶ- 3⁸³ -1- 4x⁶ ÷5x⁷÷6x¹ -ι-8κ9 -ι- &c. = Q.
+Donc avec la formation des nombres par l‘addition des
+nombres, tant e'gaux qu'inegaux, on aura celle des nom-
+bres par l’addition des nombres inegaux , ὃς conse'quem-
+
+ment celle des nombres par l’addition des nombres seule-
+ment impairs.
+
+328. Reste encore ὲ traiter & ὲ expliquer quelques cas
+articuliers , qui ne sont pas sans utilite pour faire connoltre
+fa nature des nombres. Confiddrons, par exemple, cette
+expreffion
+
+(1 —l-x) (ι ÷x²)(1-÷-x⁴)(1 -ὶ- κ’) (1-÷-x¹‘.) (1 —l—x³²) &c‚
+
+dans laquelle les exposants de x croiffent en raison double.
+lSi ssu'developpe cette expression , on trouvera ‚ *a la verite,
+a erre
+
+14x÷x²÷x³÷x⁴÷x⁵÷x⁶÷x⁷÷x⁹ -1- &c‚
+

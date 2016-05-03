@@ -1,0 +1,50 @@
+ET ECLAIRC1SSEMENS. 359
+
+Le second fasteur de cette q11a11tite‚est la difference finie r‘
+du nombre r— 1 de faecem-s 2⁴—1-r-s —4-1,i-{- r—s —fl- 2,
+i-÷-r—1;2i,2i-÷-1‚ ..... zi-4-r--s—1.Cettediffe'-
+rence est donc nulle, comme on vient de 16 voir. Ainfi la
+fonffion (α’) a pour facheurs ιι μί- 2 i -—- s, s e'tant ε ou > 1
+& < r-÷- 1. Elle a donc pour fadkeur le produit (n -1- 2 i— 1)
+(ιι-1·- ιί- z) (ft -÷- zi—3)....... (12—†-2i—-- r). D'ai-l-
+leurs ‚ tous ses fausteurs sont multiplie'es par 16 produit
+(n-÷-1)(tz-÷-2)(tz-÷-3) ...... (η-ξ-έ-ν-ῐ),εοηυη6ἰ1
+est aise' de s’en affurer, en observant que 16 co'efficient de
+e³÷²i-²'-¹ sera compose d'un nombre r 4- 1 de termes, ὅζ
+que par consequent, 16 dernier terme 'aura pour un de ses
+fae'oeurs ‚ η -ν-ἱ- ν-ι- 1 ‚ ou n -f— 1. Donc cette fonefion est (16
+la forme Q(tz-†- 1) (πή-2).. . (n-i-i—-r— 1)(tz-l- zi— 1)
+(n42i—2) ..... (n-4-2i—r),·(b),· Qe‘tantunef0116‘cion
+de i δέ de r, independante de n, puisque dans la fonffion (b)
+la plus haute dimenfion est (i —- 1), comme dans la fonc-
+tion (a'). Pour de'terminer Q ‚ nous ferons n infinie 3 en
+comparant alors les deux fonffions (h) & (d), ὃς ne confi-
+de'rant que les co'efficients de πὶ· ¹, nous aurons
+
+i(i÷ 1)(i÷2) ...... (ι’-ι-ν-ι)
+
+ 
+
+ 
+
+-· ÷.i·(1'÷ 1). . 0 . 0 ·(1'÷r—2)(2i—1)
+ρ .-.-· 1.2.3...(i-÷1)1.2.3...r —1- }.'-—2-¹.1‘·(i-÷-1>· . .. . .(i÷r—3)(2i-1)(2i-—2) }
+-L 'SI-2²34&1).....(1·-1-r.-4)(2z-23<22-3)
+
+ 
+
+ 
+
+ψ {sle ² ³
+Ce qui donne, en supposant ι’ = ou <r & = ou > 1 ,
+zi(21'-÷-1)......(i÷r—1)
+-1'.(i÷1) ..... (22—1) -}·(2i-¹)21'······(1‘-÷-w--2)
+Q—¹·²·3···(²‘¹)¹·²·3·73 -1-7',ss.(2z--2)(2z-1)....(;-÷-r-3)
+- δίε.
+
+Ce dernier faereur est la difference finie' r‘ d'un nombre
+, r — ι’ de fa&eurs; elle est donc nulle ‚ & par consequent Q
+
+a pour fa&eu1·s(i- 1)*(i- 2).. . ..-. (i··=r); il est donc
+2V ij
+

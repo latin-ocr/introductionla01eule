@@ -1,0 +1,46 @@
+356 NOTEs
+
+Nous aurons ensuite, en divisant la seconde valeur de P' par
+la seconde de P, δε negligeant, comme anparavant & par la
+meme raison, les termes ‚ qui seroient affedoe's de y²,y³‚ &c,
+
+le quotient ................
+Ρ’ -y-2 yx÷5yx⁴÷7rx⁶-12y³¹¹-15yx¹⁴÷-&c·
+1T Ξ ¹ -τῖἼ-ῑ-ῑῄ--ῄ-ῑᾶς
+
+ὃς en premant les logarithmes de part & d’autre‚
+
+—y—zyx÷5yx⁴-†-7yx⁶— 12yx¹¹—15yx¹⁴-}-&c.
+
+P!
+l· fs: I—x—x²—k-x5-†-x⁷—-x¹²—x¹³-b-x²²-l-x²⁶—-&c,
+
+Multipliant comme auparavant les deux membres par Ξ, ὃς
+faisant y = 0 ‚ nous aurons cette autre valeur de -y— g,
+
+x÷2x²—5x5—7x⁷4-12x¹²—f-15x¹³·—22x²²—&c
+μ-ῙΞ Ι-χ — x2÷ ,χε-ὲ x7 -χιι- x¹⁵÷ x²²-{-x²⁶
+
+La premiere valeur cle -- t donne , en de'veloppant en series
+chaque terme ,
+
+-- c=x÷x²÷x³÷x⁴÷x⁵÷x⁶÷x⁷÷x⁸÷x⁹÷x¹⁰ δίε.
+
+ς-μκ ,-ι-·2 -ι-2’ r÷-2 ÷2
+.··¹··3 43 -1-3'
+÷4 44
+’1-5 -i-j
+÷6
+.·÷·7
+÷8
+-1-9
+-4-10
+
+expreffion ‚ dans laquesle iI est manifeste que Ie co'e'fficient
+de chaque puissance de x est la somme des diviseurs de.
+I'exposant correspondant3 donc, fi nous designons parsit
+la somme des diviseurs du nombre n, cette derniere ex-
+preffion se changera en celle-ci:
+
+-t=xs1-{-x²s2÷x³s3 ÷xff4÷x³s5 ÷x⁶s 6-1-x's7-1-xss3 -1- &c.
+

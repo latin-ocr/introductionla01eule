@@ -1,0 +1,38 @@
+DELMUTEUR w
+
+le Calcul integral tire un tres· grand secours. J’ai fait voit
+ensuite comment ‚ par des substitutions convenables, on
+pouvoit donner aux autres une forme rationnelle. Ces es·-
+peces de fon&ions peuvent &tre converties l’une ὃς l'autre
+en series infinies. Les fonffions transcendantes sont suscep-
+tibles de la meme converfion ‚ & meme on la leur applique
+avec le plus grand succes. Tout le monde fait d’ailleurs de
+quels frogres la haute Analyse est redevable &la dodhine
+des series infinies. Auffi ai-je ajoute quelques Chapitres , ou
+je me suis attache ἒι decouvrir les propriete's , ὃς ὲ trouver les
+sommes de plufieurs series infinies ‚ dont quelques-unes pa-
+
+roissoient de nature ἓι faire croire presque qu'elles ne pour-
+
+roient &tre trouvees sans le secours du Calcul infinitefimal.
+Telles 10nt le» ser-100 ‚ don: les summes sont exprimees ou par
+
+les Logarithmes‚ ou par des arcs de Cercle. Ces sortes de
+quantites‚ qui sont transcendantes, puisqu'elles sont repre'-
+sentees par la surface de I'Hyperbole & du Cel-cle ‚ font
+partie cles matieres qu'on a coutume de traiter dans l‘Analyse
+infinitefimale. Paffant ensuite des puiffances aux quantite's
+exponentielles ‚ qui sont elles-memes des puiffances ‚ dont
+les exposants sont variables ‚ leur de'veloppement m'a fourni
+une idee fort naturelle & ἐι la fois fe'conde des Logarithmesg,
+d'ou il m'a ἐπέ facile de conclure leurs differents usages , en
+mEme temps que j‘ai pu en deduire toutes les series infinies ‚
+qui representem ordinairement ces quantites; ce qui m'a
+donne enfin un moyen tres-expeditif de construire les Tables
+de Logarithmes. Je me suis semblablement conduit dans
+l'examen des arcs de Cercle 3 genre de quantites‚ qui ,
+quoique tres—different des Logarithmes, leur est cependant
+tellement lie, que lorsqu'une de ces quantites paroit devenir
+imaginaire ‚ elle se change en l'autre. Apres avoir rappeHe
+ce que la Geometrie nous apprend sur la. valeur des smus
+

@@ -1,0 +1,71 @@
+ET ECLAIRCISSEMENS. 319
+
+la suppose , une fraCtion dont 16 ᾗ ἀέιῑοῐηὶηεὶῑεω· soit plut&
+
+pair qu‘impair ‚ ou re'ciproquement ‚ il s’ensuit que cz e'tant une
+
+puantite' ne'gative & ζ une quantit& irrationnelle ‚ on ne peut
+avoir s1 dans ce cas αἶ Γ6Ρῑέί6ιπ6 une quantite' re'elle ou non.
+
+CHAPITRE VII.
+(q) ART. 1 22. ⁹⁶ Dans l'hyperbole &quilatere , dont Ia puis-
+
+Ι
+
+sance = 1 , on al’&q11ati0n :cy = 1 , ου] = ἶ, Si on veut
+
+avoir l'espace asymptotique termine' par deux ordonnffieiffi
+dont la plus voifine du centre Ξ 1 ‚ par la portion de la
+courbe correspondante & par la partie z de l'absciss'e totale
+x, comprise entre ces ordonne'e33 on imaginem cet espace
+partage' en une infinite' de petits rechngles ‚ dont les bases
+prises sur la ligne des abscissbs soient e'gales enm-’elles ὃς infi-
+niment petite33 je les repre'sente par ε,- il est clan- que la
+
+surface du premxer ‚ a compter de l'ordonnde == 1 ‚ sera
+e e e
+
+, celle du second ‚ celle du troifieme
+1 -t- e 1÷2e 1÷3e
+
+Donc l'espace total = e (Ι *L e ΗῘΉ Η-ἳε . . . . -i- ἐζ)
+= (en re'tduisant chaque fracffion en serie) e ( 1 -ι- 1 -ι- 1 -ι-
+
+1—1-&c.)—-e²(1-!-2-{-3-!-4-—}- .......... —}-})-1-e³
+⁴ (12-4-2²÷3²-{-4²—1—....-1-}—J) —e4 (1³÷2³—1-3³-÷-4³-÷-....
+
+ 
+
+ 
+
+, &a
+
+ 
+
+ 
+
+ 
+
+ 
+
+-ι- 337³) —†- &c. Or, en gbneffral lm—1-2m-2-3m-3-4m-1-5m—1— .....
+
+n’⁷⁷-»·¹
+
+ 
+
+..q-nm: ΜΗ , l'orsque ιε 00. En effet, 16 terme ge'ndral
+
+de cette suite =n²⁷². Si on deffigne par s la somme de tous
+les termes , ὅ( par s‘ la somme de tous les termes, except&
+le dernier ‚ & qu'on fasse szAnm÷15 il est e'vident qu’on
+nura s‘=A (n—1)⁰²·*'¹; mais 5- s‘ ou (sn—{- 1)Asz⁷'¹=)z⁷”;,
+
+donc A= ¹ 3 donc δεξιῇ-Ὗ. L’espace asymptotique,
+
+m÷1 7n÷1
+
+ 
+
+ἲ Certe note suppose qu’on a vu les Scffions coniques.
+

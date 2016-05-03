@@ -1,0 +1,58 @@
+nz-:s NOMBRES. 245
+
+315. Qu’on ait donc ἒι trouver en combien de manieres
+un nombre donne peut &tre partage': , soit en un nombre tn
+de parties inegales‚ soit en un nombre m de parties ‚ tant
+&gales qu’ine'galesg, ces deux questions seront resolues, s1 on
+sair de combien de manieres chaque nombre peut &tre forme
+
+ar l'addition des nombres 1 , 2 , 3 , 4 . . . . . m, comme on
+fe verra par les theoremes suivants, qui derivent de ceux
+qui precedent.
+
+Le nombre n peut e'tre partage' en m parties ixzdgales, d’au-
+⁷⁷² ( ”² ’μ ¹) peut etrefhrrne'
+
+ 
+
+tant de manieres que le nombre n — 2
+
+par l'addicion des nombres 1 , 2 , 3 ‚ 4 ..... m.
+Le nombre n peut ἒῑῖε partage' en m parties, soit e'gales,
+
+sbic inegales , d’aucam de manzeres que le nombre n -— m peut
+
+&reform-‘2' par l’addition des nombres 1, 2 , 3 ..... m.
+
+Nous en deduirons ces autres theorssmes.
+
+Le nombre n peut etreparcage' en m parties ine'gales, d’autant
+de manieres que le nombre n -- ›3⁷²›(''¹2⁷— ¹
+m parties, soit egoles , fhic ine'gales.
+
+Le nombre n peut ecre panage' en m parties, soit {galesa
+Jbit ine'gales ‚ d’autant de manzeres que le nombre n 4⁷⁰ m “ ¹)
+peut ecre parcage' en m parties inegczles.
+
+316. Or la formation des series recurrentes nous apprend
+· de combien de manieres differentes un nombre donne n peut
+&tre forme' par l’addition des nombres 1 , 2 ‚ 3‚4 ..... m. Il
+faudra , pour cela ‚ developper la frafflon
+
+ 
+
+peut eAcre partage' en
+
+ 
+
+2
+
+1
+(1—x)(1-x²)(1—-x³) ......... gz—xm)
+δε continuet la se'rie recurrente jusqu'au terme Nx'¹‚ dont
+le co'efficient N indiquera de combien de manieres le nom-
+bre n peut &tre forme' par l'addition des nombres 1 ‚ 2,
+3 ‚ 4 ..... m. Mais , ce moyen d'arriver ne laiffera pas
+&etse laborieux, pour peu que les nombres m &c n soient
+grands3 car sechelle de relation que fournit le denominarent
+

@@ -1,0 +1,41 @@
+60 DEs F0NcrroNs DE DEux
+
+auffi determine, il ne restera plus u'une fonc‘fion de x. Une
+fonERion de plusieurs variables n'o tiendra donc une valent
+derermine‘e, qn'apr‘es que chacune des quantite's indeter-
+mire& qni la com'posent , aura requ une valeur donnee.
+Donc nne quantit& variable pouvant &tre determinee d'une
+infinite de manieres ‚ une fonffion de deux variables ‚ quiv
+pour chaque valeur de l‘une d’elIes, est encore susceptible
+d⁷nne infinite de valeurs, admettra une infinite de fois un
+nombre inlini de determinations. Le nombre de determi-
+natsons sera encore une infinite de fois plus grand dans
+une fonffion de trois vai-{ables, δε cro‘itra ὲ proportion
+pour un 11113 grand nombre d'indeterminees.
+
+79. Les fbnc‘z'iotzs de plusieurs variables se diviftnt commo—
+cli-‘mem comme celles d'wze *seule , etz alge'briques ,ἃ en
+transiendamffl.
+
+Les premieres sont celles dont la composition ne de'pend
+que d'ope'rarions algebrique53 les dernieres sont celles, dans
+la formation desquelles il entre des ope'rations transcen-
+dantes. On pourroit encore· ὰ l’e'gard de celles-ci en distin-
+guer de plusieurs especes, selon que les operations trans-
+* cendantes affe&ent tontes les variables‚ ou quelques-unes
+seulement, ou meme une seule. Ainfi l’expreffion {z '⁴‘y
+log. ζ, qui renferme 16 logarithme de ἶ, sera bien une
+fouetion transcendante de y &- de {3 mais elle doit &tre
+regardee cependant comme moins transcendante‚ parce que
+la vai-{able z une fois de'terminee la fonc'H0n devient alge-
+brique. 'An reste ‚ il est inutile de multiplier ces sortes de
+subdivifions.
+
+80. Les fhnc'Jiotzs alge'briques fi divifi’tzt enficile en ration-
+nelles G* cn irrationnelles ,· G· les racionnelles etz entieres ἃ ea
+fraHz'onnaires.
+⁷ La raison de ces de'noniinations est suffisamment expliquee
+dans le premier Chapitre. La fonffion rationnel-le est degagee
+de toute irrarionnalite, qui affeste les quantites variables,
+dont elle est dite fonstion. Elle sera entiere s'il n’entre point
+

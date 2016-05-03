@@ -1,0 +1,48 @@
+266 Dr: L’usAGE Drs Sl'ERIES RizcuRRENTEs
+
+2585
+
+Car elle sera h-peu-pres == ¹094?- ==0,2361; or 2‚2361est
+
+h-peu-pres = VJ, qui est la plus grande racine de l'e'quation.
+343. Quoique le nume'rateur de la fraxstion qui forme la
+serie recurrente, soit arbirraire, cependant la forme qu'on
+lui» donne ‚ peut contribuer beaucoup ’ὲ trouver plus promp-
+tement la valeur approchee de la racme. En effet, ayant
+pris ‚ comme ci-dessus (art. 334) les fa&eurs du de'nomi-
+nateur3 soit 16 terme general de la [ἐι-16 recurrente =
+ζ”(Αρ”-4- Β ς’ῑ-ὶ- Crn-r- &c.) ces coefficienrs A,B‚C ‚
+ἃς, 16 determinent par le numerateur de la fraffion 3 par
+consequent il peut: arriver que A ait une valeur grande ou
+petite3 dans 16 premier cas, la plus grande racinep se trouve
+plutbt, & dans le second ‚ plus tard3 on peut meme pren-
+dre un numerateur qui fasse disparoltre entierement A;
+alors la serie , quoique continue'e ὲ l’infini, ne donnera ja-
+mais la plus grande racine p. Or cela arrive , lorsque 16
+nume'rateur qu‘on a choifi , a lui meme pour fa&eur, 1 -pz ‚
+car alors ce fa&eur sortira entierement de l'expreffion. Par
+exemple ‚ fi on propose l'e'quation x³ — 6 xx -ὶ- rox—3 = 0, ν
+dont la plus grande racine = 3,&qu'on en forme la fraCkion
+
+ 
+
+de sorte que l'echelle de relation soit 6, -- 10 , -1- 3 ‚ on
+obtiendra la se'rie ·
+
+1‚3‚ 8, 21, 55, 144, 377, &a
+
+dans laquelle 16 rapport de deux termes n’approche nulle-
+
+ment de 1 ε 3. La raison en est que la ‘meme serie pro—
+1
+
+1 —- -ο-
+consequent la plus grande {Zeinzzde l’equation x² -—- 3 x -ι-
+
+IzQ
+
+vient de la fraffion , & qu'elle donne par
+
+344. 11 est encore p'offible de prendre un numerateur, qui
+falle connoltre par la serie recurrente telle racine qu’on
+

@@ -1,0 +1,45 @@
+nEsNOMBREs. 237
+
+plus lieu , fi nous transportons ces faGeurs au denominamur.
+En effet, soit proposee cette expreffion
+1
+
+(1 - xm(1-x³z><1-—x⁷z)(1—-x⁰”z> (¹—x‘z) &0
+laquelle e'tant developpe'e par la division donne la se'rie
+1 —1— P3—5-Qz2 ÷R3³÷Sz4÷ &c3
+il est clair que P sera la somme des puifl‘ances de x , dont
+les exposants sont compris dans cette serie
+
+ει, C,·y‚d⁸, ε,ξ,κ, ἃς.
+
+Ensuite Q sera un assemblage de puiss'ances de x,·d0nt les*
+exposants sont. les sommes de deux termes , repetes ou non ,
+de cette serie. De plus, R sera la somme des puiffances de x,
+dont les exposanrs sont forme's par l’addition de trois termes ‚
+ὅ( S la somme des puiffances ‚ dont les exposants sont formes -
+par l'addition de quatre termes contenus dans cette serie 3
+ainfi des autres.
+
+303. Par consequent, fi on suppose que l'expreffion ait
+ἐπέ εηῑίέῑειῃεηῑ de'veloppe'e‚ & qu’on ait rassemble' les termes
+semblables, on verra de combien de manieres differentes un
+pombre propose η peut erre forme par l’addition de m
+termes, differents ou non ‚ de la serie α, C, γ, 0⁶, ε , ξ , &c.
+Cherchons , par exemple ‚ dans l‘expreffion developpese Ie
+terme x'¹ εἰη, & son coefficient que je suppose N, de sorte
+que le terme total soit = Nx⁷¹ {¹⁷¹3 ce coefficient N nous
+apprendra de combien de manieres differentes le nombre n
+peut &tre forme par l’addition de m termes contenus dans
+la suite οι, ξ,’γ,δ“, ε, &c. On aura donc ainsi la solution
+
+d’une question analogue ἐι la premiere que nous avons confi-
+deree auparavant.
+304. Faisons l'application de ce que nous venons de dire
+
+ὲ un cas plus remarquable ‚ & prenons cette expreffion ¹
+1
+
+ 
+
+(1—xz)(1-x²z) (1 - x³z)(1'-- ΜΞΝ -κὊ &e
+

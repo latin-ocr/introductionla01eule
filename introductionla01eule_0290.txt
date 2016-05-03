@@ -1,0 +1,47 @@
+³⁶4 DE L’USAGE mss SERIES RfiCURRENTES
+
+sera 1 ——fim 700, tandis qu’auparavant⁷ celle-ci· fin. 70⁰ etoit
+la plus grande de l’equation pre‘ce'dente3 ὃ( ἐι present
+1 -ι- fin. 5o⁰ est la-racine la plus grande, lorsque pre‘ce'-
+demment la racine fitz. 50⁶>> e'toit la moyenne. Ainfi, une
+racine quelconque pourra ‚ par 16 moyen d'une substitution ‚
+devenir la plus grande ou la plus petite d'une nouvelle
+equation , δὲ &tre en consequence determinee par ia me*-
+thode que nous venons de donner. De plus , comme dans
+notre exemple la racine 1 —afim700 est beaucoup lus
+petite que les deux autres ‚ il sera facile d'en avoir la vaYeur
+approche‘e par une serie recurrente.
+
+EXEMPLE IV.
+
+Trouver la plus petite racina de l’e'quacion o = 8y³ ——-
+24y² -4- 18y ——- ι ‚ qui e'cafzc fimstraite de l’unice' donn-era
+pour reste lc simus cle l’afzgle de 700.
+
+Soity ²}{9 pour av0i1·0=z³ — ὄζζ -l- 9z - 1 ,
+dont la plus petite racine se trouvera par une se'rie re'cur-
+rente ‚ dont l'echelle de relation est 9, — 6, -}- 1 , & la
+plus grande , en premant l'echelle de relation 6, -9 , -1- 1.
+Pour avoir la plus petite, formons donc cette serie
+
+1, 1, 1, 4, 31, 256, 2122, 17593‚ 145861;&c.
+
+nous aurons 2³1—peu-pres ἶ -τ--Χςέξῖ = o,12061483 &
+
+‘y = o,06030741, δε fitz. 70⁰ == 1 ——y2-00‚93969258³
+valeur qui ne s'e‘carte pas de la verite , meme dans 16 der-
+nier chiffre. On comprend donc par-151 combien il peut erre
+avanrageux de transformer, par une substitution convenable ‚
+une equation‚ pour en trouver les racines, & que par ce
+moyen la me'thode que nous avons expliquee, ne s’applique
+pas seulement ὲ la recherche des plus grandes & des plus
+perires racines , mais qu'elle peut les donner tontes, f
+
+341. Ayanr donc trouve par approximation une racine
+quelconque d‘une equation proposee, de maniere que Ie
+
+nombre ss, par cxemple ‚ differe tres-peu d'une des racmes ‚
+nous
+
+ 
+

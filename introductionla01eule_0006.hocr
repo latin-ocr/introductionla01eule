@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./introductionla01eule_0006.png"; bbox 0 0 2382 3054; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 595 1374 1793 1680">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 595 1374 1793 1680">
+     <span class='ocr_line' id='line_1_1' title="bbox 595 1374 1793 1456; baseline 0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 595 1374 910 1456; x_wconf 63' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 946 1374 1028 1456; x_wconf 82' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 1056 1374 1170 1439; x_wconf 73' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1207 1374 1487 1439; x_wconf 70' lang='lat' dir='ltr'>{memet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1516 1374 1793 1439; x_wconf 75' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 717 1486 1666 1568; baseline 0 -19"><span class='ocrx_word' id='word_1_6' title='bbox 717 1486 771 1549; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 804 1488 988 1551; x_wconf 79' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 1019 1486 1164 1551; x_wconf 74' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1197 1486 1471 1568; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1504 1486 1666 1551; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 816 1597 1573 1680; baseline 0 -17"><span class='ocrx_word' id='word_1_11' title='bbox 816 1598 1182 1680; x_wconf 78' lang='lat' dir='ltr'><strong>University</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1212 1598 1279 1663; x_wconf 79' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 1308 1597 1573 1663; x_wconf 77' lang='lat' dir='ltr'>Ottawa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 244 2793 2142 2875">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 244 2793 2142 2875">
+     <span class='ocr_line' id='line_1_4' title="bbox 244 2793 2142 2875; baseline 0.001 -19"><span class='ocrx_word' id='word_1_14' title='bbox 244 2793 2142 2875; x_wconf 68' lang='lat' dir='ltr'>http:llwww.archive.0r9ldetailslintroduction1301eule</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

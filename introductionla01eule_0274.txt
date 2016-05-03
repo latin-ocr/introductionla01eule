@@ -1,0 +1,45 @@
+250 DE LA PAR11110N
+
+Dans ces differents groupes de se'ries ‚ les premieres sont les
+nombres figureS, & en retranchant chaque terme de la se-
+conde serie du terme suivant de la premiere on forme la
+seconde. Puis on ajoute' deux termes de la troifieme serie,
+qu’on retranche du terme suivant de la seconde, & on
+obtient la troifieme3 δε en continuant ainfi de soustraire la
+somme de trois , de quatre termes, ou d’un plus grand
+nombre , de la serie ulterieure, du terme suivant de la serie,
+qui precede, on formera les autres series ‚ jusqu'ir ce qu’on soit
+arrive ὲ celle qui commence par 1 -ὶ- 1 —i- 2 &c3 ὃς ce sera
+la serie de la Table.
+
+323. Toutes les se'ries verticales de la Table commencent
+de la meme maniere, & ont continuellement un plus grand
+nombre de termes communs3 d'on il s’ensuit (ψ’-ἐι l'infini ces
+sersses deviendront identiques. On aura alors la se'rie, qui
+provient de la frastion.
+
+1
+
+Comme cette serie est re'currente ‚ confiderons d'abord le
+denominateur de la fracffion pour en deduire l‘echelle de re-
+lation. Or fi les fasteurs du denominateur sont continuelle—
+
+ment multiplie's entr'eux, on trouvera la suite
+1—x--x² -4- x⁵÷x⁷—x¹² ——x¹³-}-x²² -ι- x²⁶-x³³ — x⁴⁰÷x³¹ -Ι- &c.
+
+& fi on examine avec un peu plus d’attention la nature de
+cette suite, on verra qu'elle ne renferme d'autres puiffances
+de x ‚ qne celles dont les exposants sont compris dans cette
+
+(ΓΡ) formule 3nnqssn· Si η est un nombre impair , Ies puiffances
+seront negatives, ὃς elles seront pofitives‚ fi n est un nombre pair.
+324. Donc l'echelle de relation etant
+
+ 
+
+—.¹- 1, -‹1-1‚0‚0, -— 1,0‚-1‚0‚0‚0‚0‚ -ι- 1, 0‚0‚ ÷1‚0‚0, διε.
+La serie recurrente ‘que donnera le de'veloppement de la
+frafflon
+
+(1—x)(1-x2)<1-x³)=<1-fx⁴)<1-x³)(1-x⁶>(1—uw ξω.
+

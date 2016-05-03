@@ -1,0 +1,39 @@
+68 DEs FoNcr. DE DEUX ov D'UN PLUs GRAND NoMBR15‚&c.
+
+faisant x = ἐς cai· elle devient 13 fonction d’une dimen-
+fion y—÷- '‘v—Vq·- y) -1- e} ÷cz{. Il y a d’autres cas οἰι une
+
+ἰ ἶ( 1
+substitution auffi simple ne suffit pas pour-rendre la fonction
+homogene, & qui presentent beaucoup plus de difficulte's.
+
+94. Enfin on doit avoir egard ὲ une autre divifion assez
+ufite'e des f01]&ioiis entiere53 je veux parler de leur division
+en ordres. L'orclre est determine par le plus grand nombre
+des dimensions qui se trouve dans 13 quantite. Par exemple‚
+xx -i-yy —÷- {z —÷- ay —— αα est une fonction du second
+ordre, parce qu'elle a des termes de deux dimenfion83
+δέ y⁴÷y{³—ay²{ —1-czbyz - cz²y²÷ b4 appartient aux
+fonctions du quatrieme ordre. On a e'gard ὲ cette divifion,
+sur—tout dans 13 theorie des lignes courbe33 d'ou resulte
+encore une nouvelle divifion des fonctions entieres.
+
+95. Reste 2¹1 parler de la divifion des fonfflons entieres
+en complexes & en incomplexes. Une fonction complexe,
+est celle qui peut &tre decompose'e en- factem-s rationnels ‚‘
+ou qui est le produit de deux ou d’un'plus grand nombre
+de fonctions rationnelles; telle est la fonCffion y⁴—- ζ*
+—4- 2a33— zbyzz -“ &3²4 zabzy———b²y², qui resulte
+de 13 multiplication de ces deux fonctions . . . . .
+(yy-f- {z— αἶ-ὶ- by) (yy —- {gd-sq - by). Nous
+pouvons donc conclure que toute fondhon entiere homo-
+gene, qui renferme seulement deux variables‚ est une fonc-
+tion complexe, parce qu'elle a autant de faeteurs fimples
+dela forme ay—4- cz qu’elle contient de dimenfions. Par
+la raison contraire une fonction entiere sera incomplexe,
+fielle ne peut se decomposer en facteurs rationnels; telle est
+13 quantiteyy —1— {z —- αα, qui ne renferme point de fac-
+teurs ratim-mels, ainsi qu'il est alfe de s'en convaincre. Au
+reste, c’est par 13 recherche des diviseurs qu'on pourra s’affu-
+rer fi une fonction donnee est complexe ou incomplexe.
+

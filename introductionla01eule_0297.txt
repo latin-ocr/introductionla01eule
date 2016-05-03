@@ -1,0 +1,52 @@
+DANS LA RECHERCHE nes RACINES D1-:s EQUAT. 271
+A.stn.(n};·;·1-}P‡}:fin.nqp— pn÷an4qu÷
+&c. Donc, fi le nombre p est plus petit que chacun cles
+autres, q, r, δίε, de maniere que la plus grande racine de
+
+l’equation
+
+coefficient P =
+
+ 
+
+ 
+
+m
+
+x —2xm·’'—Cx⁷”··²—-7x'”-³—&c.=0
+
+soit re'elle‚ elle se trouvera par les series recurrentes , comme
+fi aucune racine n'etoit imaginaire.
+
+349. Donc l'existence des racines imaginaires n’empecbera
+oint de trouver la plus grande racine reelle, pourvu que
+se produit des deux d’entr’elles ‚ qui composent un fafteur
+reel, ne soit pas plus grand que le quarre de 13 plus grande
+racine. Mais, fi le produit de deux de ces racines imagi-
+naires e'gale ou surpaffe le quarre' de la plus grande racine
+reelle , alors la me'thode precedente n'apprendra rien ‚
+puisque la puiffancep⁷² ne disparo‘it jamais devant une puis-
+sance semblable de 13 plus grande racine, quoique la serie
+soit prolonge'e ὲ l’infini. Pour plus d’eclaircissement , nous
+avons juge a propos de donner quelques exemplem
+
+EXEMPLE I.
+
+Soit propoft'e l’e‘quation x ³ —- 2 x — 4 = 0 ‚ dont il s’czgit
+de trouver [α plus grande racz'tze.
+Cette e'quation se decompose en deux fafiteurs
+(x— 2) (x² -ῐ- 2 x -1- 2 ); ce qui nous apprend qu'elle a
+
+une racine reelle 2 & deux autres imagmmres, dont le ·
+
+produit 2 est moindre que le quarre' dela racine re'elle. La
+
+‘racine re'elle pourra donc se trouver eu suivant 13 meme
+
+marche qu’auparavant. Formons en consequence une serie
+
+recurrente avec l’echelle de relation o ‚ -4- 2 ‚ -ι- 4, elle sera
+Ῑ ‚0‚ 2³424’ 16‚24‚48, 112‚192,416‚832 ,ν &C-
+
+d‘oh l’on peut conclure assez facilement la racine reelle 2,
+

@@ -1,0 +1,41 @@
+DEs QUANTrrfis EXPONENTIELLES ET DEs LOGARxTH. 69
+
+...-......-.------——---·-----
+
+C H A P I T R E V Ι.
+Des Quantite's exponentielles ὃν des Logaritlzmes.
+
+96. Quoique la connoiffance des fonfflons transcendantes
+doive faire un des objets du calcal integral, cependant il
+sera ἐι propos de traiter ici de quelques especes qui se pre-
+sentent plus frequemment‚ & qui preparent la v'oie ὲ plu-
+fieurs recherches. Nous confideremus donc d‘abord les
+quantites exponentielles, ou les puiffances dont l'exposant
+est une quantite variable3 car il est clair que ces sortes de
+quantites ne peuvent &tre rapportees aux fonfflons alge-
+
+briques, puisque celles-m n’admettent que des exposans
+constantS. On distingue plusieurs especes de quantite's expo-
+nentielleS, suivant que l’exposant seul, ou que l'exposant
+
+avec le nombre qu'il affecte est une quantite variable3az est
+de la premiere espeoe, & yz dela seconde. Deplus‚1’exp0-
+sant meme peut &tre une quantite exponentielle, comme
+ἶ . ἰ . ’ἶ . ἶ
+
+dans les formules aa ³ ay ² ya ’ κγ ’ Nous ne'multiplierons
+pas davantage les especes de ces grandem-33 car leur nature
+sera suffisamment connue, apres que nous aurons traitc}
+seulement la premiere espece.
+
+97. Soit donc proposee la quantit& exponentielle at, ou·
+ce qui revient au meme ‚ une puissance de la constante a,
+qui ait pour exposant la variable ζ. Cet exposant ἶ renfer-
+mant tous les nombres determines, il est e‘vident que fi ἓν,
+la place de {a on substitue succeffivement tous les nombres
+
+entiers pofitifs ‚ on obtiendra pour a< les valeurs determine‘es
+a¹3 a²3 a³3 ὥς 61⁵3 ⁶1⁶3 &c3 & stl’on met pour z les nombres
+
+negatifs :- x, ·— 2 , —‚-3 ‚ &c‚ Ia quantit& az deviendra suc«²
+

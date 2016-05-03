@@ -1,0 +1,40 @@
+257
+
+ 
+
+CHAPITRE XVII.
+
+De l'ustlge des Se‘ries re'currergtes dans la recherche
+des Racines des EquationS.
+
+332. Le ce'le'bre DANJEL BERNOUJLLJ a indique un bel
+usage des series recurrentes, relatif ἐι la recherche cles ra-
+cines d’une equation d‘un degre‘ quelconque ‚ dans les
+Me'moires de l’Acade'mz'e de Pe'zersbour , T ome III, ou il
+enseigne comment on peut, ἐι l'aide <fes series recurrentes ‚
+affigner les valeurs approchees des racines d’une e'quation
+algebrique quelconque ‚ quelqu’en soit le nombre de di-
+menfions. Certe me'thode pouvant etre d’une tres—grande
+utilite, j’ai juge ὲ propos de l'expliquer ici avec quelque
+detail, afin qu'on puisse savoir dans quel cas on peut l’em-
+ployer. Car il arrive quelquefois qu'on est trompe': dans son
+attinte‚ ὅτ. qu'on ne peut obtenir aucune racine de l‘e'qua-
+tion par le moyen de cette methode. C’est pourquoi , pour
+en mieux faire sentit l'esprit δέ la nature , il convient d'exa-
+minet ‚ d’apres les proprietes des series recurrentes , les fonde—
+ments ‚ sur lesquels elle porte.
+
+333. Toute serie recurrente pouvant &tre regardee comme
+le developpement d'une frachon rationnelle quelconque , pre-
+nons la frastion
+
+a—l—›bz-l- cz²÷dz³÷ez⁴÷81a
+-ῖ-π-ῖ-εμ-ῖῑ-
+
+laquelle donne naiffance ἐι la serie recurrente suivante :
+A—r-Bz -ι- Cz’ -ι- υἷ’ -}- Ez* -ι- Εἷς-ι- &c.
+
+dont les co'efficients A, B, C, D,&c. sont determines ,
+ajnsr qu'il suit z
+Eum( ‚ Itztroduc'lion ὰ [Attal. infin. Tome I. 2 K
+

@@ -1,0 +1,57 @@
+50 Du DE'VELOPPEMENT Dl-:s FONcT1oNs
+
+A? Ξ α
+
+Β = α Α 4« b
+
+C Ξ α Β -ι- §A »ια c
+
+D: α Ε-ε-εΒ -ιηΑ -ι-ιί s
+
+E :z oeD÷GC -l--JB —4-‹sA 45
+
+δίε.
+
+Chaque coefficient est donc egal ὲ la somme de quelques
+multiples des precedents ‚ jointe ὲ un certain nombre que
+donne le numerateurg mais ὲ moins que ce numerateur
+
+n’ait une infinite de termes ‚ cette addition ceffera bient&t‚
+Sc des-lors chaque ‘terme sera forme suivant une loi cons-
+
+tante par quelques-uns des precedents. Mais pour que la ·
+
+Ioi de la ‚progreffion‘ ne soit pas trouble‘e, il conviendra
+d'employer une fonffion fractionnaire proprement dite3 car
+fi on en employoit une autre, la partie cnti'cre que? celle-ci
+conriendrost, entreroit dans la serie, & interromproit la
+loi de la progreffion dans les termes qu'elle augmenteroit
+ou diminueroit. Par exemple‚ cette &aetion improprement
+dite ῙῙῗ-Ζῖἶέ) donnera la serie 1 -l- 35( -÷- 4z² -l- 6z³
+—l- 10:442}- Ιόἶῖ-ια ιόζῦ-ῐ- 42 {⁷ -4- &c3 ou le quatrieme
+terme fait exception ἐι la loi, par laquelle chaque coefficient
+est la sommedes deux pre'cedents.
+
+ 
+
+ 
+
+64. Les series recurrentes me'titent une attention parti-
+cuhere, lorsque le de'nominateur de la fraction, d'ou elles
+α-ι-ὂζ
+(1-oez)²
+
+ 
+
+mussent, est une puissance. Par exemple, la fra<ffion
+re'duite en serie donnera
+
+a-l-zaea ÷3oe²a 2÷42³a 3-1- 62⁴& 4-1- δίε.
+-l- όῖ-Ιϋ zaabz ·-÷- 302²&z —j-4efflhz
+
+serie dans laquelle le co'e'fficient de la puiss'ance ξπ est
+
+(a -l- 1) zna-l— n κη ”“ ¹b. Cependant cette serie sera re'cur-
+rente , parce que chaque terme est determine par les deux
+precedents, suivant une loi que fait appercevoir le develop-
+

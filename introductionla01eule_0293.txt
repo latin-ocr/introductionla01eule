@@ -1,0 +1,50 @@
+DANs LA RECHERCHE Dus RAcmEs mas EQUAT. 267
+
+voudra de l'e'quation3 il faut pour cela que le numerarem-
+scit le produit de tous les fa&eurs du de'nominateur ‚ ex-
+cepte celui, auquel re‘pond la racine cherche‘ee. Ainfi ‚ en
+
+prenant dans 16 premier exemple 16 numerarem· 1 — 3 ζ -4- ζ {3
+
+1—35-33—4-32——5 donnera cette serie re'cur·
+- z-1-10z -3z
+
+rente 1 , 3, 9, 27, 81, 243 ‚ &c‚ laqueHe formant une
+progresfion ge'oxnetrique donne tout de suite la racine x = 3 ;
+
+car cette frae'fion est &gale ὲ cette fraecion fimple ι ¹ .
+11 suit de-la que fi les premiers termes qu’on peut pren3d<re
+
+a volonte, sont tels qu'ils forment une progreffiongeome-
+trique , dont l’exposant soit egal ἐι une racine de l’equa-
+tion , toute la serie re'currente sera ge'ome'crique, ὃς don-
+nera par consequent cette meme, quoiqu'elle ne soit ni la
+plus grande ni la plus petite.
+
+la frae'kion
+
+ 
+
+345. Ainfi, pour n’etre pas exposes ‚ lorsque nous cher-
+chons la plus grande ou la plus petite racine , ἒι trouver ‚
+contre notre attente, une autre racine par la serie recur-
+rente, il faut choissr un numerateur qui n'ait aucun fa&eur
+commun avec le denominateur3 ce qui se fera , en prenant
+l‘unite pour numerateur. Donc le premier terme de la
+serie sera = 1 , Sc avec celui-la, on determinera tous les
+Δειιιῑιτὲς, (1ἐ.Ρι-ὲε Γέε1ι6116 de relation. De cette maniere on
+sera toujours sfir de trouver la racine de l’equation ‚ la plus
+grande ou la plus petite ‚ selon qu’on le defire. Ainfi,
+s‘etant ,propose l'equation y³ dr —3y -4- 1 Ξ 0 ‚ dont on
+veut connoitre la plus grande racineb, au moyen de l'echelle
+de relation 0 ‚ κὶ- 3 , -ν- 1 ‚ on formera , en commenqant
+par l’unite' , la serie recurrente suivante
+
+1—0-}-3—- 1—1-9--6-1‘2gffl27490— ¹09÷297····
+4717 -ι- 1000—- 1548 -4- 3417—5644 ·-1- &c.
+
+laquelle tend manifestement ἒι un rapportconstant, & fait
+voit que la plus grande racine y est negative, & qu’elle est
+
+2Lij
+

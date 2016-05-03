@@ -1,0 +1,58 @@
+DF. LA TRANSF. mis Foncr. PAR &insui-s 35
+
+ 
+
+CHAPITREIII.
+
+De la Tmrzrfhrs‘m-zion des Fonffl'ons
+par Suhstl'zution.
+
+46. Si y est une fhmc'lion qzcelcorzque de z ‚ C? que zfhic
+cxprz'me' par unc nouvelle variahle x, y [τοκῆα l‘ecrc de Ιηέηιε
+
+patiAiiifi ‚ supposant quey soit une fonfflon de z , en intro-
+
+duisant une nouvelle variable x, on represente les deux
+
+premieres au moyen de cette troifieme. Par exempk, fi
+y == ¹ -ἷῖ ὅί qu’on fasse ζ == ¹—x , cette substitution
+- 1 -b- ³( 1 —4-x
+
+2x
+
+ 
+
+ 
+
+ 
+
+Abla place de ἶ donnera y = Ι ÷xx . Donc une valeur
+quelconque determinee ‚ prise pour x, determinem celle
+de y ὃς de z, & fera connoitre consequemment la valeur
+deycorrespondante ἒῑ celle de z. Si l’on fait , par exemple,
+
+x = ξ, on aura ζ 2 ξ, &y == 74; on trouveroit de meme
+
+= ξ, fi dans l'equation y = ι-Ξ--ἷῖ-
+* ἶ(
+
+Certe introduecion d’une nouvelle variable a deux usages.
+En effet, lorsque l²expreffion par laquelle y est donne'e
+en ζ renfer'me des radicaux, c'est un moyen de s'en de‘bar-
+rasser3 ou bien , lorsque l'equation qui exprime la relation
+entre y &.⁴ ,ἶ , est d’un degre' trop e'leve' pour qu'on en puisse
+tirer une fonction ekplicite de ζ e'gale ἓι y, on {ntroduit
+une nouvelle variable x, par le moyen de laquelle on puisse
+exprimes commodement 8< y ἃ ἶ. On peut donc par-l&
+juger d’avance du grand usage des substitution53 mais la
+suite en fera mieux sentit encore l'importance.
+
+47. Si y = ll (et—kb z) ‚ on croztvercz de la manierc fici-
+vante la nouvelle variable x ‚ qui rendra raczonnelles les valeurs
+
+deyede z.
+
+‚ on faisoit (Ξ ξ.
+
+Eij
+

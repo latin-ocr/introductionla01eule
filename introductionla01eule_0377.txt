@@ -1,0 +1,57 @@
+ET ECLAIRCISSEMENS. 351
+
+(rm) ART. 282. Quand on a les sommes des puiffances un
+peu confide'rables , on peut employer‚ pour trouver les (ommes
+
+’ des puiffances moins elevees, les formules precedentes , ( art.
+
+278),savoit:
+
+fflh—NN=S÷÷&rQfi÷ssffissh÷&O
+ψῆὲψὲψὼψῂψω)
+ψῆὴψῇψὼψῂψω)
+
+-ι- δίε. '
+ou lM=S÷÷(;f-„—l—3÷„÷ss÷7{x÷ &c)
+÷ffss÷ss÷ss÷ss÷m)
+÷÷(ss-1-31—,.-1-3};,-÷-ss÷ &c)
+
+—1-&c.
+
+CHAPITREXVL
+
+1
+(1—x)³
+bres triangulaires & la fraffion
+
+(oo) ΛΚΤ. 320. La frastion donne la suite des nom.
+
+1
+
+ 
+
+donne
+
+ 
+
+la troi-fleme suite verticale de lg—tgss1213—gli({ffxfllpposant
+
+ 
+
+Χ
+mm: (I—x), on trouvera X= (I—b-x)
+
+(1÷x÷x²). Donc on devra multiplier d'abord la suite
+
+que donne savoir 1 —4- x -4- 2 x²2
+
+ἡ 2
+-1-3x³-}-. 4ἓςι4 --ιῦ-ΰςς ¹³⁶5 Ξι-ηῐικὸῗ-ὶέ 8 x⁷ -μ 10 x⁸ -ι- &c par 1
+-4- x -ὶ- x' 3 ce qui donnera une nouvelle serie, dans laquelle
+le coefficient de chaque puiffance de x sera e'videmment
+
+. la somme du coefficient de la meme puissance de x dans la
+
+premiere serie & des co'efficients des deux termes precedents ‚
+ou 1 24- 2x—1- 4x2-f- 6x³—÷- 9 x4—f- 12x⁵÷ 16x⁶-÷-&c 3 ensuite
+

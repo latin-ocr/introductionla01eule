@@ -1,0 +1,47 @@
+246 DE LA PAR'rxTon
+
+developpe' par la multiplication ‚ est alors compos& d'un plus
+grand nombre de termes, ce qui rend penible la continua-
+tion de la serie pousskffe un peu loin.
+
+317. Au reste, cette recherche donnera moins de peine,
+s1 on traite d’abord les cas les plus fimples; car il sera
+facile de passer de ceux-ci aux cas plus compose's. En effet ,
+supposons que la se‘rie, qui nait de la fraffion
+
+(1—x)(1—x²)(1—x³) .......... (1—xm)
+
+ait un terme general == N xn, δε que celle qui provient
+de la formule
+
+27²!
+
+(1—x)(1—x²)(1-x3) ........ (1—xm)
+ait pour terme general la quantite Affx'ss dont le co‘e'ffi-
+cient M indiquera de combien de manieres differentes “le
+nombre tl -- m peut &tre forme par l’addition des nombres
+1 , 2, 3 ..... m. Retra1-1chons cette derniere expreffion de
+la premiere,. nous aurons pour reste:
+
+(I—x)(1—x²)(1—x³) .......... (ι-κ’”*ῐ)
+
+Οι· il est evident que le terme general dela serie resultante
+sera ( N— M) x ¹². Donc le co'efficient N-- M fera connoitre
+de combien de manieres differentes le nombre n peut &tre
+forme' par l’addition des nombres 1 , 2 ‚ 3 ..... (m— 1 ).
+
+3 18. Nous tirerons donc de-lz't la regle suivante ε
+
+Soit L le nombre de manieres , dont le nombre η peut &tre
+forme par l’addition des nombres 1 , 2 , 3 ...... (m ·-- 1 ).
+
+Soit M le nombre de manieres, dont le nombre 72-——772 peut
+&tre forme par l’addition des nombres 1, 2 ‚3 . . . . . . . m.
+
+Et soit N le nombre de manieres ‚ dont le nombre n peut
+&tre forme par l'addition des nombres 1 , 2 ‚ 3 . . . . . m.
+
+Cela pose , on aura ‚ comme nous venons de voir ‚
+
+L=N--M, &par consequent N==L—}- M. Donc, fi
+

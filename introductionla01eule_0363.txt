@@ -1,0 +1,59 @@
+ET ECLA1chssEMENs. 337
+
+Or, suivant ce qu’on a vu Chapitre IV, Article 67, la
+somme des termes, qui forment chaque colonne verticale,
+est egale ἒι zero tant que η est plus grande que les expo-
+sants des coefficients 1, 2, 3, 4, &a Done, fi n est esse-
+mEme plus grande que m , la totalite sera zero, Donc ‚ en ge}-
+neral, la difference nku d'un nombre m de faQurs est nulle ‚
+
+pout-vu que η soit plus grande que m.
+
+Cela pose , on pourra determiner par la methode suivante,
+que je dois ὲ l'amitie' du C. Laplace, le co'e'fficient de {¹²
+
+dans le developpernent dela fondfion W.
+
+,
+
+ε etant le nombre dont le logarithme hyperbole est 1.
+
+Je mets cette fonffion sous la forme
+
+ 
+
+ 
+
+Of,<— sstpV—i>³0u (1—zessQV-1) =1÷÷zess03s=1÷
+1—e
+
+Ξ ³²³¹ »ἶῖ 6ὲ2φ“”’ ῆ--ὶ ΞΣ {22 z³ess³0”'‘¹÷ss †1 ΗΞ
+
+ἶ. 2 ⁰ Ι· 2 ο 3 0 ι. 2 · 3 ·
+
+1
+
+(ῖᾟῇ-Μ, en ne conservant que les
+
+dans la fonffion
+
+puiss‘ances pofitives de εφ ‘'— ¹ ‚ sera
+s (tz-i-x)(tz—}-2) ....... (n-ff-g—IJenQV-ffi
+-1- -i-fz .(tz—-{-1) ........... (n4i- 2)e('¹'²)‘p”''¹
+f-ss—-zssj -ι- ξ”ῗ (ιι-ψη ......... (n÷i-3)e<'²·⁴>0“·1
+(a) ’ὶ- {1:33ss (⁷²·- 2)(72--1) ..... (n4i-4) e('²'⁶)⁹‘s'¹
+4- &a
+
+Si on multiplie ce second fasteur‚ par la suite , e(²i·¹)⁹‡s·¹...
+
+21—1 (zi—3)QV—1 2i—1 2i—2 (zi—5)4³V-1 21'-1 21-2
+-—-— e ÷—· e ——- 2 0
+
+ι ⁰ 1 2
+
+EULER, Introduc‘t'ion ὰ l'Anal. infin. Tome Ι. 2 {s
+
+ 
+
+ 
+

@@ -1,0 +1,42 @@
+236 DE LA PART1T10N
+
+combien de manieres differentes un nombre propos& peut
+re'sulter d’un nombre determine de termes differents de cette
+se'rie 1 , 2 ‚ 3 ‚ 4, 5 ‚ 6, 7 ‚ 8 ‚ &a Voulez-vous samir, pat
+exemple‚ de combien de manieres differentes ie nombre 35
+peut &tre la somme de sept termes differents de la serie
+1 , 2, 3 , 4, 5, 6„ 7 , &c? Cherchez 'dans la serie , qui
+multiplie ἶ7, la puiffance x³⁵‚ δε, son coefficient 15 vous
+apprendra que le nombre propose'z 35 peut etse de quinze
+manieres differentes la somme de sept termes de la serie
+
+1‚2,3,4‚5,6‚7‚8‚&c.
+301. Mais, fi vous supposez ζ = 1 , & que vous faffiez
+
+une somme des puiffances semblables de x , ou , ce qui revient
+au meme , si vous de'veloppez cette expression infinie
+
+<1÷x)(1-l-x2)(1-÷-x³)(1—}-x⁴)(1—÷-x⁵)(1 ÷x⁶)&c.
+vous aurez la suite
+1-r-x-4-x2-5-2x'42x4-1- 3x544x⁶÷5x⁷÷6x⁸÷ssm
+
+dans laquel¹e chaque coefficient indique de combien de
+manieres differentes l'exposant de la puissance correspondante
+de x, peut resulter par addition des termes differents de la
+se'rie , 1 ‚ 2 ‚ 3, 4, ς, 627, &c. Ainfi , il est vifiblewqu’il y a
+fix manieres de former le nombre 8 par l’addition de
+diffe‘rents nombreS. Les voici:
+
+8=8 8=543
+2:741 8==5-}-2—÷-1
+8=6÷2 8=4÷=3÷1
+
+ΙΙ faut remarquer ici qu'on doit mettre auffi en ligne de
+compte le nombre propose' ‚ parce que le nombre des termes
+n’est pas determine , ὃς que par consequent on peut n'en
+prendre qu’un.
+
+302. On voit , par ce qui precede, comment chaque
+nombre est produit par l'addition de nombres differents.
+Mais cette condition qui suppose des nombres differents n'aura
+

@@ -1,0 +1,39 @@
+vj PREfACE
+
+auffi 'traite par les me'thodes de l‘Algebre commune plu-
+sieurs questions, qui sont ordinairement l'objet de l'Analyse
+infinite‘fimale , afin de rendre plus senfible & plus frappant
+l’accord parfait qu'on remarquera dans la suite entre les deux
+me'thodeS.
+
+J‘ai divise ce Traite' en deux Livres. Le premier embraffe
+ce qui a rapport ὲ l‘Analyse pure. Dans 16 second je deve-
+loppe plusieurs questions geometriques, dont la connoiffance
+m'a paru neceffaire 3 parce qu’ordinairement en traitant de ὴ
+l‘Analyse infinitefimale , on en fait voir en meme temps
+l'application ὲ la Ge‘ome'trie. J’ai suppose par—tout la con-
+noiss‘ance des premiers Ele'ments 3 ὅ( j'ai cru ne devoir
+
+expliquer dans ces deux Livres que ce qu’on ne trouveroit
+pas ailleurs ‚ ou qui du moino y seroie emite d‘uue mamere ,
+
+qui m‘a semble moins avantageuse ‚ ou bien qui supposeroit
+des principes differents des miens. ’
+
+Je me suis sur-tout e'tendu dans le premier Livre sur les
+fonefions de vai-iables ‚ parce qu'elles sont l'objet de l’Ana-
+lyse infinite'fimale. J'y ai enseigne la maniere de les trans-
+former, de les de'composer ‚ ὃς de les re'duire en series in·
+finies. J'ai fait l‘enume'ration de plusieurs especes , auxquelles
+on doit avoir e'gard , particulierement dans la haute Analyse.
+Je 163 ai d'abord divisees en algebriques ὅτ. en transcendant'es.
+Les premieres sont composees de quantite's variables com—
+bine'es entr‘elles par les operations ordinaires de l'Algebre‚
+ἂ 163 secondes dependent d'autres operations‚ ou des memes
+combinaisons que les pre'ce'dentes , mais repete'es une infinite}
+de fois. La subdivision des fonffions alge'briques ‚ qui
+s'offre la premiere ‚ est celle en rationnelles & en irration-
+nelles. Celies—L& peuvent &tre decompose'es ou en parties
+plus fimples ‚ ou en fazeketirs ; j’ai fourni les moyens de 163
+ramener ἒι cet etat de simpliciteg ἃ c’est une operation dont
+

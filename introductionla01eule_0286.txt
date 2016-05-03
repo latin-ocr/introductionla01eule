@@ -1,0 +1,51 @@
+260 DE L'USAGE Des Srlmzs RfictJRM-:Nrfs
+
+ou du figne - , car dans les deux cas, ses pujss‘ances aug-
+mentent &galement
+
+337. Ii est affez facile a pre'sent de voir comment se peut
+faire l'application de ces principes εὶ la recherche des racines
+d'une e'quation algebrique quelconque. En effer , les fa&eurs
+du de'nomimteur 1 -- α 7( ——Cz ² - 2 ζ’ ——- css* —— &c. etant‘
+connus ‚ on affignera facilement les racines de cette e‘quation
+
+1 -oez—-Cff-asff—d‘ff— &c. = 0,
+de sorte que fi un des fa&eurs est .1 —- pz , une des racines
+de cette e'quation sera ζ -- ss. Puis donc que la se'rie
+
+recurrente fait connoitre le plag grand nombre p , on ob-
+
+tiendra en meme temps la plus petite racine de l'e‘quation
+1 —2{*C{²—2{³ -- &c, = 03 ou bien, fi on fait z
+Ι
+
+= -χ- , pour avoir l’equation
+
+xm-—otxm-¹-Cx⁷⁷²”‘² —yxm-‘3 -- &C.= 0,
+on aura , ἐι l’aide de* la meme methode ‚ la plus grande
+racine de cette derniere equation , savoir x =p.
+
+338‚ Soit donc propose'e cette e'quation
+—me-2- γκΜ-Ξ- &c. = 0,
+
+ΙΠ-Ῑ
+
+xm ·—— oe x
+laquelle ne renferme que des racines reelles & inegales
+entr'elles, on trouvera de la maniere suivante la plus grande
+de ces racines. Formons des co'e'fficients de cette equation
+
+la fraiflon
+a÷h3÷ c3² -1-d33-4-&a
+
+1 — a( —- eq· »ν 73³ — ἐζ* - &c-
+
+& de cette fraffion , une serie recurrente, en prenant a
+volonte' le numerarem, ou ‚ ce qui revient au meme, en
+premant arbitrairement les premiers termes 3 de maniere
+qu'elle soit . ⁷7
+
+A-f-E'z-i-C{²÷D{³÷ ..... ÷Pzn÷Q3n÷¹3
+
+la. frafflm ωε- donnera la valeur de la plus grande racine x
+

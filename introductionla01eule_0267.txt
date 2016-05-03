@@ -1,0 +1,48 @@
+nzsNOMBREs. 243
+nombres 1, 2, 3, 4, ...... m. Mais, fi cette expreffion
+
+m(m-{-1)
+
+x 2
+(I—x)(1-—x²)(1-—-x³)(1—x4) ..... (1-x'⁷²)
+est change'e en serie, le terme general sera = N x'²·*·''² (m '⁴‘ Ι),
+
+ 
+
+dont 16 co'e'fficient N masque de combien de manieres
+m(m-{-1)
+
+ 
+
+differentes 16 nombre n -4- peut &tre partage' en m
+parties inegales 3 d’oh s’ensuit le theoreme :
+
+Le nombre de mani-eres dzff'e'retztes dont on peut fhrmer le
+
+nombre n par l’addz'cion des nombres 1 ‚ 2 ‚ 3 , 4, ..... m , est
+le mEme que celui donc ott peut partager le nombre n÷ ''²(1''²'*‘2¹)
+
+ 
+
+‚en m parties inngales.
+
+3 13. Apres avoir exposci la partition des nombres en
+parties inegales3 examinons ὲ present celle qui n‘exclud pas
+l’egahte des partles, ὃς qui resulte de cette expreffion
+Z: (1-2‘1) (1-³²z )(1-1x³z) (1-x43) (1—x3z) &c.
+Suppesons qu’apres 16 de'veloppement fait par la division ,
+on ἔζεε 1 ÷Pz÷ ρξ’ -Ι- Rz' ..ff-Szstf- T{⁵·¹··&C·
+'Or il est clair que fi on met x ἶ au lieu de ζ , on aura
+16 meme changement ayant donc ete fait dans la serie deve·
+loppee , 16 re'sultat sera
+
+=(1 -xv Z;
+
+(1—x{)Z = 1 -ι- Px( -1- ρκ’ἶ’ -ξ- Rx33³ -ι- 8κ4ζ4 -f- δίε.
+Multiplions e'galement la premiere se'rie par 1 —— κζ, ὃς
+nOUS aUFODS
+
+(ιι-,κῃΖ--ε 1 -Ι- ΡΗ· <21² ·4— Rp —1— εἰ* -f- διε,
+- xz — Px3² -ι ⁴Q=c{'¹— Rx34 ·— &c.
+2 H ij
+

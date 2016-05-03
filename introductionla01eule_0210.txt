@@ -1,0 +1,42 @@
+186, Dus SfiR1ns
+
+series recurrentes, il nous reste encore ὴ chercher les sommes
+de ces se'ries. D'abord il est clair que la somme d'une serie
+recurrente continuc'e ὸ, l'infmi , est e'gale ἔι la fmffion, qui
+l‘a fait nastre , δε comme le denominateur de la frafflzion
+est connu par la loi de la progreffion, il n' a plus que le
+numer-atem· ὲ determiner. Soit donc propoffze la serie
+A-i-Bz—k- Cz²÷Dz³÷Ez⁴÷Fz⁵÷= Gz⁶÷&c;
+
+dont la loi de progreffion donne le denominarent· ι — αἶ
+.-¹- 63² -- ’γῇ -÷· 5:34. Supposons la fradfion , qui exprime la
+
+ 
+
+somme de cette serie infinie == w* ——z— · comme
+
+la se'rie proposee en de'rive‚ on aura, en comparant, . .,
+a Ξ Α
+b = B -— οι Α
+c Ξ C —- οι Β -Ι- ζ Α
+ἆτ--Β-ασ-Ῠ-ξΒ--φΑΣ
+Donc la somme demandee sera . . . . . . . . .’
+A÷(B--oeA){-i-(C—oeB4CA){²÷(D—aec÷GB—yA){¹
+232. On comprend aise'ment apres cela comment on
+trouve la somme d'une serie recurrente continuee jusqu’fi
+un terme donne'. En effet‚ supposons qu'il soit question de
+trouver la somme de la serie propose‘e jusqu'au terme P.·{'²‚
+& faisons . . . ., ...........
+ΚΞΑ-ὶ-Βῖ-ὶ-ςΐῆ-Βῇ-ἔ-Εῇ ........ -4-Ρζ”.
+Comme la somme de cette serie prolonge'e ἐι l’infini est
+connue, cherchons celle des termes qui suivent le der-
+nier Pzn ὲ l’infini‚ laquelle nous supposons ....
+t= Q⁷{”*'·⁴··R{”*²·¹·*5{”*³÷T{”* *4- &c.
+cette se‘rie e'tant divise'e par {⁷⁷ * ¹ donne une se'rie recurrente
+parfaitement conforme ὲ la premiere, dont la somme sera
+par consequent t= . . . ........ .
+Ωῐ”*’-ψ-(Κ’-αρ)ῖ”*ι-1-(8-κ1ἶψέρ)ῐ’*’ψ(Τ-οι8-ὶ·ἔΗ-νρ)ῖ”* ⁴,
+1 ..az-hesawssaeg*
+
+ 
+

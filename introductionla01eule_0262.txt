@@ -1,0 +1,38 @@
+238 DE L'A ΡΛιιτῐτῐοΝ
+dont le developpement effecffile par la division donnera
+
+1÷z(x-{-x²-⁴-x⁵ -÷- x4 -1- x5 -ι- x⁵÷ x⁷ -ι- x*3 -ι- x⁹-¹—&c.)
+-*- {²(x²÷x³÷2x* -4- 2²⁶⁵ ÷3x⁶ -ι- 3³⁶⁷ —÷- 42⁴⁸ -ι- 4κ” ÷ 5x¹0÷ ἃα)
+43³(x3-4-x4-5-2x5 -4- 3x⁶ -}-4x⁷ -ι- 5x2-ff- 7x⁹ -ᾶ- 8³:¹0 ÷10x3¹÷ ἃς.)
+÷z4(x⁴-l·-x³÷ 2χε 43227 4. 5³⁶³ 4. 6x⁹ 4- 9x¹⁰ 411x¹¹ —4-15x‘2-5->&c.)
+-f- {³(x5-1-x6-5- 2x⁷ -01-3x8 -1- 5x⁹ -ι- 7x¹0÷10x¹¹ ÷1³3x¹²÷ 18x¹³÷ ἃς.)
+41⁶(x‘54-x7-5- 2x8÷ 3³⁶⁹ -θ- 5x¹⁰÷7x¹¹ ÷11x¹²÷14x¹³÷20x¹4÷ δίε.)
+-ι-ἶὟμῗ-ι-κΖ-ι-εψ 43:4¹⁰÷5x¹¹÷7x¹²·4‘=11x¹⁵÷15x¹4÷21x¹³÷ &c.)
+
+41³(x3-f-x9—4-2xm-1-3x'1-21-5.vc¹²-f-7x¹³ ÷11x¹⁴÷15x¹³÷22x¹⁶÷ ἃς.)
+
+&c.
+On peut donc , ὲ l'aide de ces series , trouver sur le cha'mp
+de combien de manieres differentes un nombre propos& peut
+etse forme' par l’ad-dition d'un nombre donne de termes de
+cette serIe -1 , 2 , 3, 4, 5, 6, 7, «Sc-c. Velut-on savoifr, >past
+exemple , de combien de manieres differentes le nombre 1⁴3
+>peut re'sulter de l'addition de cinq nombrcs «entiers ἓ Ilfaudra
+chercher le terme x¹³35‚ dont le coefficient 18 apprend
+que le nombre en question 13 pentetre de dix-huit manieres
+le re'sultat de cinq nombres ajoutes. “ “
+
+305. Si on suppose ζ = 1 , ὅί qu'on re'uniffe en une
+somme les puiss'ances semblables de x, cette expression
+⁵ 1
+(1 —x) (1 --x²)<1'—- x³)(v1 -κῆ (1 —x5)'(1 --x⁶) δίε.
+se changera en oette serie
+1 ..ι- x -ὶ- 2x2-4- 3x³ -4- 5x4-÷- 7x²÷11x⁶÷ 1 5x⁷÷22x⁸⁷÷ δίε.
+dans laquelle chaque coe-fficient 'marque de combien de
+manieres differentes l'exposant de la puissance correspon-
+dante peut &tre forme par l’addition de nombres enders,
+soit egaux soit inegaux. Par exemple ‚ le terme 1 1x⁶ fait voir
+
+que le nombre 6 peut &tre produit de onze manieres par
+l'addition des nombres entiers. Les voici : ·
+

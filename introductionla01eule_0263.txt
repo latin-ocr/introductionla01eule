@@ -1,0 +1,49 @@
+nssNomnar-sr 239
+
+6:26 6=3÷1÷1÷1
+6=5÷1 6=2÷2÷2
+6-—·=4-÷-2⁴ 63=24=2÷1<÷1
+:4-3-141 6=2÷1÷1÷141
+-6=3-}-3 6=1÷1÷r÷1÷1÷1
+
+6=3÷2÷1
+
+Remarquez auffi que Ie nombre propose' e'ttant contenu dans
+la forie des nombres 1 , 2 ‚ 3 , 4, 5 ‚ 6, &a fournit lui-mssme
+une mamere.
+
+306. Cela pose} en gonelml ‚ cherchons une me'thode facile,
+qui nous donne chacune des compofitions ‚ dont vous venons
+de parler, & prenons d'abord en confiddration celle qui
+n’admet que des nombres entier-s difforcnts , & dont il a έῑέ
+question en premier lieu. Soit donc proposele, ὲ cet effer,
+l’expreffion suivante
+
+Z =(1 4x{)(1·⁴·‘x²{)(14'x³{)(1 -4-x4z) (14x⁵{)&C.
+
+qui de'veloppoe & ordonnfie par rapport aux puissances de ἶ ,
+donne la se'rie
+
+Z=1÷Pz÷ Q74²÷Rz³÷Sz⁴÷Tz⁵÷8<0
+
+pour laquelle i} s’agit de trouver une me'thode expoditive
+d'obtenir les fon&ions P, Q‚R‚S, T, δῖε. de x3 car on
+aura‚par ce moyen ‚ satisfait d’une maniere convenable ἐι la
+question propoffle.
+
+307. Or il est clair que fi on e'ctit κζ pour ἶ , on aura · ’ ¹
+
+(1 -!- x²z)(1÷x³z)(1 4- x⁴{) (1 ÷x³z) &c. =
+
+ 
+
+1 -Ι- κ(
+Donc ‚ en substituant κζ ὲ {³ la valeur du produit, qui e'toit Z,
+Ζ
+
+ 
+
+se changera en 1-1-χῖ 3 ainfi, puisque
+
+Z= 1 -Ι- Ρζ-ῑ-ρζῑ-ὶ-Κῇ-ῑ-δῇ-ἥ-ὅζε.
+

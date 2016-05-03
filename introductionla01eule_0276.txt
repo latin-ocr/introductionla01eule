@@ -1,0 +1,44 @@
+252 DE LA PARTITION
+326. Afin de pouvoir comparer ces formules entr'elles,
+
+supposons
+P=(1 -x) (1 -x²) (1 -- x³) (1 —x⁴)(1—x5) (ι -κῆ &c.
+&
+
+Q==(1 -l-x) (1-1-x²) (1—1-x³) (ι -1-κ4) (x ÷x5) (1—1-x‘)&c.
+nous aurons
+
+P Q = (1——x²)(1-— x4) (1—-x⁶)<1--x⁸) (1—x‘0) (1—-x¹²) &c-
+
+Comme tous ces fa&eurs sont contenus dans P, divisons P
+
+par P Q, le quotient sera-¹3 =( 1 — x) (1 —· κ’) (1 -—-x⁵)
+
+(1 -x⁷) (1- x⁹) &c.
+
+ὃ( par consequent
+1
+
+Q=—(—„——,(ss-)-<—:)-(-:—‚-gr—
+
+Le de'veloppement de cette fra<ffion produira une sede, dans
+laquelle chaque co'efficient apprendra de combien de ma-
+nieres differentes l'exposant de x peut &tre forme' par rad-
+dition des nombres impairs. Puis donc que cette expression
+est &gale ἔι celle que nous avons confideree dans l'article
+precedent , nous en conclurons le theoreme suivant.
+
+Autan: qu'z'ly a de manieres deformer par addition un n-om-
+bre domze', avec tous les nombres entiers ine'gaux entr'eux ;
+autam il ya de manieres de former le νηέηιε nombre, par ad-
+dition ‚ avec les nombrcs seulement impairs, sbit e‘gaux fhit
+me‘gaux.
+
+327. Comme nous avons vu ci-deffus que
+P π 1 -- x—x²-!- ,κς-1- x⁷ —x¹² — x¹5÷x²²÷x²‘—-
+
+x³⁵ -- κω —1- &c.
+on aura en mettaht xx pour x,
+PQ = 1 — x² -x4-1- x¹⁰÷x¹⁴--x²⁴ - x³⁰4x⁴⁴ -3-
+σεῖ’ - &c..
+

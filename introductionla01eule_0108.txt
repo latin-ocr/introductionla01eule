@@ -1,0 +1,42 @@
+84 DEs QUANrfffi's EXPONENT. ET DEs LooAmm.
+E X E M P L E.
+
+Si 13 progreffion 2, 4, 16, 256, &a dont chaque terme
+est 16 quarre‘ du precedent, est continue'e jusqu’au vingt-
+cinquieme terme3 011 demande 13 grandeur de ce dernier
+
+terme. 11 sera plus commode d'exprlmer les termes de cette
+
+progreffion par des exposans,de cette maniere ιι, 2², 24, 28, &c.
+
+Il est &vident que les exposans forment une progreffion ge'o-
+metrique, & que celui du vingt-cinquieme terme sera
+
+2²⁴2- 167772163 de sorte que le terme cherche' z 2¹6777216.
+
+Son Iogarithme sera donc =16777216l2;& comme l2 = o,
+301029995663981195 ‚ 16 logarithme du nombre demand&
+sera = 5050445, 259733673 dont 13 cara&eristiqt1e nous
+apprend que 16 nombre en question exprime' de la maniere
+ordinaire sera compose de 5050446 chiffl-cs. La partie deci-
+111316 259733675932 cherchee dans la table des logarithmes
+6101111613 163 premiers chiffres 6111 nombre (161113061εὲ , qui
+seront 181858. Quoique ce nombre ne puisse aucunement
+&tre exprime, au moins est-il certain qu’il est compose' de
+53‘50446 chiffres, & que les fix premiers sont 181858‚1es-
+quels doivent etr-e encore suivis vers 13 droite de 5050440
+autres, dont quelques-uns pourroient erre determines avec
+(163 rables de logarithmes plus e'tendues3 c’est ainfi qu'on
+trouveroit pour les onze premiers chiffres 18185852986.
+
+ 
+
+CHAPITRE VII.
+
+Du De'veloppement des Quantitas exponentielles Α
+ἐξ lugaritlzmiques en Se'ries.
+
+114. Puisqu‘on a a0= 1, & qu'& mesure que l'exposant
+de a augmente‚ 13 11316111· (16 13 111ιί113066 augmente auffi,
+pourvu que α soit un nombre plus grand que l’uniteg, 11
+

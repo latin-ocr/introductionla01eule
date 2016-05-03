@@ -1,0 +1,53 @@
+64 DEs FONCTIONS DE DEux
+
+expreffions irrationnelles. Car fi P est une fonfflon quel-
+conque homogene de n dimenfions , par exemple, ΥΡ sera
+une fomstion de ξ tz dimenfions3 {l P sera une foncTtion de ξ n
+
+dhnenfions, ὃς en g6ne5ral PK:— sera une sonestion def-‘La
+
+dimensions. Ainfi ls(yy -†- 3z) sera une sonestion dime
+dimenfion3 1>”(y9-¹e-³ ἶς’) sera une fonfflzion de trois dimen-
+
+Υ fions: (yz ÷3{)3 sera une foncffion de ξ dimenfions,
+
+δε ἕόᾐὲἷδ sera une fornffion de dimension nulle. D‘aprbs
+cela, ἃ ce qui pr6cede , on comprendra facilement que
+
+1 yxl(yy-÷-zz)— γ yxsz
+
+ 
+
+ 
+
+lexpresszon J* ζ’ *yffi—C) 4- zzxsy-f-»sw-f-z')
+est une fonchon homogene de —- 1 dlmensxon.
+
+87. Il n'y a plus de difficu1t<÷ pour 1av0ir fi une fonffion
+irrationnelle implicite est homogene ou non, soit V une
+telle fonstion& V3—4--PV2 ÷QV÷R=0, P,Q ὃς Ιί-
+e'tant des fonfflons de y ὅτ. de z. D’abord il est clair que Vne
+peut &tre une fonstion homogene ‚ fi P, Q & R ne sont pas
+des fonffions homogenes. De plus, fi nous supposons que V
+soit une foncstion de n dimenfions3 V² sera une fondfion
+de 2 n, & V³ une fonEfion de 3²² dimenfions3 puis donc qu'il
+doit y avoir par-tout un mssme nombre de dimenfions, il
+faut que P soit une fomffion de n, Q de ιη, δε R de 372
+dimensions. Donc r&ciproquen]ent, fi les lettres P, Q, R
+sont respefflvement des fonffions homogenes de n, ιη, 3tz
+dimenfions, on en conclusa que Vsera une fomffion de a
+dimenfions. Ainfi‚ en supposant l'efiquation V⁵-÷- (γ’-1- 3⁴) V3.
+-x— ay⁸ V—-zm zo, V sera une fondfion homogene de
+
+deux dimenfions des variables y & ζ.
+
+88. Si V est αντε fimc‘Ziotz homogcne de n dimenzons des
+variables y δ’ Ζ, δ’ qu'on fiffi par-tout y Ξ uz: la onc‘lz‘on V
+se clzwzgera en un produit de la puiffimce zn par une cer-
+tain& fona-‘Zion de la variable u,
+
+En είῖῗεε, pat· cette substitution de y= αῖ, on introduira
+dans chaque terme des puiss'ances de z, e'gales ἓι celles ἀεὶ]
+
+qu il
+

@@ -1,0 +1,43 @@
+DANs LA thmzncmz Des RAcxNEs ms EQUAT. 269
+
+que nous avons exposee ci-dessus ‚ en developpant la fraffion
+l
+
+1 - 3z *ff 4z³
+en une serie recurrente; qui sera
+1, 3‚9‚25‚57‚135‚313‚711‚ 1593, &c-
+Il est vifible que chaque terme divise par le precedent,
+donne un quotient plus grand que deux. La raison s'en
+de'duit tres-facilement du terme general3car en rejectant les
+puiffances Cqss, &c‚0n aura le terme correspondant ὲ Ia
+puiffance zu, = (η’-ὶ- 1 )Apn -1- Epa, & Ie suivant :z
+(tt-4- 2)Ap'¹-¹-¹ -k- Bp fl÷¹,1eque1 etant divise par le
+premier , donne -ἓΞ-Ξ-ῑίἓ-Ξὲφ > p , ὸ. moins que n ne
+soit infini.
+E X E M Ρ 1. E II.
+
+Soit prbpose'e maintenanz l'e‘quazion x³ — xx— 5 x -- 3 z 0,
+dont la plus grande racina = 3 ‚ G* les deux autres ngales
+
+=——1.
+
+Cherchons la plus grande racine par le moyen d'une serie
+recurrente, dont l’echelle de relation est 1 -i- 5 43 3 ce
+qui donne
+
+1, 1, 6,14‚ 47 , 135, 412, 1228, &c.
+
+On trouve assez-tet la valeur3 , parce que les puiffances
+de la plus grande racine -— 1 , quoique multipliees pat
+(η -ι- 1 ) disparoiffent de bonne heure aupres des puis-
+
+sancesde3. EXEMPLE III.
+
+Mais ,fi ons& propofhit l’e'quation x3-1- X x -— 8 x — 1 2 = ο,
+donc les racines fimz 3, - 2, - 23 on trouvera beaucoup
+plus tard la plus grande racine. En effet ‚ on aura la se'rie
+
+¹ 9-— 1²9³ “““ 5³ 65, 3³457³ 347, 3345549155 &C-
+qu'on devroit continuet·v encore bien ‘au-del& ‚ avant de §ap-
+percevoir que la racine qui doit en resulter, 2 3,
+

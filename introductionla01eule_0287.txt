@@ -1,0 +1,58 @@
+mus [A nemnem mes RAcmx-:s mss EQUAT. 261
+
+de l’eqnation &aucant plns approchee , que η sera un plns
+grand nombre.
+E X E M P L E I.
+
+Soiz propofi'e l’e'qzzatiotz xx - 31< -- 1 = 0, dont il
+s’agic de trouver la plus grande racine. ’
+Formons la fraffion -ssffl—-3 en prenant pour pre-
+
+Ῑ-ὂῖ-ἷῖ s
+
+miers termes 1 ‚ 2 , nous aurons la serie recurrente
+
+1, 2,7, 23, 76, 251, 829, 2738, δεῖ.
+Donc la quantite {⁷3³9ss approche-2 de la valeus de la plus
+grande racjne de l’equation propose'e. Or la valeus de cette
+fraefion exprime'e en decimales est
+
+3 ² 3 0 2 7 7 4 4
+tandis quela plus grande racine de l‘e'quation :z
+
+3,3027756
+
+laquelle surpasse la pre'ce'dente seulement d’un millionieme.
+
+P
+
+Remarquez au reste que les fradfions -ρ- sont alternative-
+
+ment plus grandes & plus petites que la vraie racine.
+
+3÷¹ss3—
+
+2
+
+ 
+
+Ξ
+
+EXEMPLE II.
+
+Soit propose'e l'e'quation 3x —— 4x³ τε ξ, donc les racines
+repre'setz'tent les finus de trois arcs , donc les mples orn urz
+finus == {a
+
+Ayant ramene't l’e'quation ὲ la forme 0 == 1 —- 6x §a -}- 8x³,
+cherchons-en , pout nous en tenir aux nombres endem, la
+plus petite racine ‚ de maniere qu’il ne soit pas ne'ceffaire de
+
+mettre ὲ pour x. Formons donc en consequence la frafflon
+a -4- b x -4- c x x
+
+......—-——-————-·
+
+1 —— 6x &ie -k- 8 x³
+δε comme les trois premiers termes sont ἓι notre choix ,
+
